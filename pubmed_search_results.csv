@@ -1,0 +1,1233 @@
+Disease,Vector,Attribute,Neglected,AI_Type,Objective,Query,Result_Count
+Dengue,mosquito,virus,Y,deep learning,surveillance,Dengue AND deep learning AND surveillance,18
+Dengue,mosquito,virus,Y,deep learning,forecast,Dengue AND deep learning AND forecast,13
+Dengue,mosquito,virus,Y,deep learning,early warning system,Dengue AND deep learning AND early warning system,3
+Dengue,mosquito,virus,Y,deep learning,diagnostic,Dengue AND deep learning AND diagnostic,13
+Dengue,mosquito,virus,Y,machine learning,surveillance,Dengue AND machine learning AND surveillance,103
+Dengue,mosquito,virus,Y,machine learning,forecast,Dengue AND machine learning AND forecast,44
+Dengue,mosquito,virus,Y,machine learning,early warning system,Dengue AND machine learning AND early warning system,21
+Dengue,mosquito,virus,Y,machine learning,diagnostic,Dengue AND machine learning AND diagnostic,58
+Dengue,mosquito,virus,Y,k-means clustering,surveillance,Dengue AND k-means clustering AND surveillance,3
+Dengue,mosquito,virus,Y,k-means clustering,forecast,Dengue AND k-means clustering AND forecast,0
+Dengue,mosquito,virus,Y,k-means clustering,early warning system,Dengue AND k-means clustering AND early warning system,0
+Dengue,mosquito,virus,Y,k-means clustering,diagnostic,Dengue AND k-means clustering AND diagnostic,3
+Dengue,mosquito,virus,Y,logistic regression,surveillance,Dengue AND logistic regression AND surveillance,341
+Dengue,mosquito,virus,Y,logistic regression,forecast,Dengue AND logistic regression AND forecast,20
+Dengue,mosquito,virus,Y,logistic regression,early warning system,Dengue AND logistic regression AND early warning system,13
+Dengue,mosquito,virus,Y,logistic regression,diagnostic,Dengue AND logistic regression AND diagnostic,200
+Dengue,mosquito,virus,Y,support vector machine,surveillance,Dengue AND support vector machine AND surveillance,45
+Dengue,mosquito,virus,Y,support vector machine,forecast,Dengue AND support vector machine AND forecast,19
+Dengue,mosquito,virus,Y,support vector machine,early warning system,Dengue AND support vector machine AND early warning system,10
+Dengue,mosquito,virus,Y,support vector machine,diagnostic,Dengue AND support vector machine AND diagnostic,18
+Dengue,mosquito,virus,Y,text mining,surveillance,Dengue AND text mining AND surveillance,28
+Dengue,mosquito,virus,Y,text mining,forecast,Dengue AND text mining AND forecast,10
+Dengue,mosquito,virus,Y,text mining,early warning system,Dengue AND text mining AND early warning system,3
+Dengue,mosquito,virus,Y,text mining,diagnostic,Dengue AND text mining AND diagnostic,12
+Dengue,mosquito,virus,Y,artificial neural networks,surveillance,Dengue AND artificial neural networks AND surveillance,11
+Dengue,mosquito,virus,Y,artificial neural networks,forecast,Dengue AND artificial neural networks AND forecast,5
+Dengue,mosquito,virus,Y,artificial neural networks,early warning system,Dengue AND artificial neural networks AND early warning system,1
+Dengue,mosquito,virus,Y,artificial neural networks,diagnostic,Dengue AND artificial neural networks AND diagnostic,12
+Dengue,mosquito,virus,Y,expert system,surveillance,Dengue AND expert system AND surveillance,37
+Dengue,mosquito,virus,Y,expert system,forecast,Dengue AND expert system AND forecast,8
+Dengue,mosquito,virus,Y,expert system,early warning system,Dengue AND expert system AND early warning system,2
+Dengue,mosquito,virus,Y,expert system,diagnostic,Dengue AND expert system AND diagnostic,20
+Dengue,mosquito,virus,Y,random forest,surveillance,Dengue AND random forest AND surveillance,39
+Dengue,mosquito,virus,Y,random forest,forecast,Dengue AND random forest AND forecast,12
+Dengue,mosquito,virus,Y,random forest,early warning system,Dengue AND random forest AND early warning system,11
+Dengue,mosquito,virus,Y,random forest,diagnostic,Dengue AND random forest AND diagnostic,15
+Dengue,mosquito,virus,Y,decision trees,surveillance,Dengue AND decision trees AND surveillance,17
+Dengue,mosquito,virus,Y,decision trees,forecast,Dengue AND decision trees AND forecast,2
+Dengue,mosquito,virus,Y,decision trees,early warning system,Dengue AND decision trees AND early warning system,2
+Dengue,mosquito,virus,Y,decision trees,diagnostic,Dengue AND decision trees AND diagnostic,15
+Dengue,mosquito,virus,Y,gradient boosting,surveillance,Dengue AND gradient boosting AND surveillance,10
+Dengue,mosquito,virus,Y,gradient boosting,forecast,Dengue AND gradient boosting AND forecast,3
+Dengue,mosquito,virus,Y,gradient boosting,early warning system,Dengue AND gradient boosting AND early warning system,0
+Dengue,mosquito,virus,Y,gradient boosting,diagnostic,Dengue AND gradient boosting AND diagnostic,3
+Dengue,mosquito,virus,Y,natural language processing,surveillance,Dengue AND natural language processing AND surveillance,5
+Dengue,mosquito,virus,Y,natural language processing,forecast,Dengue AND natural language processing AND forecast,1
+Dengue,mosquito,virus,Y,natural language processing,early warning system,Dengue AND natural language processing AND early warning system,0
+Dengue,mosquito,virus,Y,natural language processing,diagnostic,Dengue AND natural language processing AND diagnostic,1
+Dengue,mosquito,virus,Y,sentiment analysis,surveillance,Dengue AND sentiment analysis AND surveillance,3
+Dengue,mosquito,virus,Y,sentiment analysis,forecast,Dengue AND sentiment analysis AND forecast,1
+Dengue,mosquito,virus,Y,sentiment analysis,early warning system,Dengue AND sentiment analysis AND early warning system,1
+Dengue,mosquito,virus,Y,sentiment analysis,diagnostic,Dengue AND sentiment analysis AND diagnostic,1
+Dengue,mosquito,virus,Y,fuzzy logic,surveillance,Dengue AND fuzzy logic AND surveillance,8
+Dengue,mosquito,virus,Y,fuzzy logic,forecast,Dengue AND fuzzy logic AND forecast,3
+Dengue,mosquito,virus,Y,fuzzy logic,early warning system,Dengue AND fuzzy logic AND early warning system,3
+Dengue,mosquito,virus,Y,fuzzy logic,diagnostic,Dengue AND fuzzy logic AND diagnostic,4
+Zika,mosquito,virus,N,deep learning,surveillance,Zika AND deep learning AND surveillance,2
+Zika,mosquito,virus,N,deep learning,forecast,Zika AND deep learning AND forecast,1
+Zika,mosquito,virus,N,deep learning,early warning system,Zika AND deep learning AND early warning system,0
+Zika,mosquito,virus,N,deep learning,diagnostic,Zika AND deep learning AND diagnostic,5
+Zika,mosquito,virus,N,machine learning,surveillance,Zika AND machine learning AND surveillance,32
+Zika,mosquito,virus,N,machine learning,forecast,Zika AND machine learning AND forecast,8
+Zika,mosquito,virus,N,machine learning,early warning system,Zika AND machine learning AND early warning system,3
+Zika,mosquito,virus,N,machine learning,diagnostic,Zika AND machine learning AND diagnostic,24
+Zika,mosquito,virus,N,k-means clustering,surveillance,Zika AND k-means clustering AND surveillance,1
+Zika,mosquito,virus,N,k-means clustering,forecast,Zika AND k-means clustering AND forecast,0
+Zika,mosquito,virus,N,k-means clustering,early warning system,Zika AND k-means clustering AND early warning system,0
+Zika,mosquito,virus,N,k-means clustering,diagnostic,Zika AND k-means clustering AND diagnostic,0
+Zika,mosquito,virus,N,logistic regression,surveillance,Zika AND logistic regression AND surveillance,79
+Zika,mosquito,virus,N,logistic regression,forecast,Zika AND logistic regression AND forecast,3
+Zika,mosquito,virus,N,logistic regression,early warning system,Zika AND logistic regression AND early warning system,1
+Zika,mosquito,virus,N,logistic regression,diagnostic,Zika AND logistic regression AND diagnostic,29
+Zika,mosquito,virus,N,support vector machine,surveillance,Zika AND support vector machine AND surveillance,9
+Zika,mosquito,virus,N,support vector machine,forecast,Zika AND support vector machine AND forecast,3
+Zika,mosquito,virus,N,support vector machine,early warning system,Zika AND support vector machine AND early warning system,3
+Zika,mosquito,virus,N,support vector machine,diagnostic,Zika AND support vector machine AND diagnostic,5
+Zika,mosquito,virus,N,text mining,surveillance,Zika AND text mining AND surveillance,6
+Zika,mosquito,virus,N,text mining,forecast,Zika AND text mining AND forecast,2
+Zika,mosquito,virus,N,text mining,early warning system,Zika AND text mining AND early warning system,0
+Zika,mosquito,virus,N,text mining,diagnostic,Zika AND text mining AND diagnostic,3
+Zika,mosquito,virus,N,artificial neural networks,surveillance,Zika AND artificial neural networks AND surveillance,1
+Zika,mosquito,virus,N,artificial neural networks,forecast,Zika AND artificial neural networks AND forecast,0
+Zika,mosquito,virus,N,artificial neural networks,early warning system,Zika AND artificial neural networks AND early warning system,0
+Zika,mosquito,virus,N,artificial neural networks,diagnostic,Zika AND artificial neural networks AND diagnostic,3
+Zika,mosquito,virus,N,expert system,surveillance,Zika AND expert system AND surveillance,11
+Zika,mosquito,virus,N,expert system,forecast,Zika AND expert system AND forecast,2
+Zika,mosquito,virus,N,expert system,early warning system,Zika AND expert system AND early warning system,1
+Zika,mosquito,virus,N,expert system,diagnostic,Zika AND expert system AND diagnostic,8
+Zika,mosquito,virus,N,random forest,surveillance,Zika AND random forest AND surveillance,9
+Zika,mosquito,virus,N,random forest,forecast,Zika AND random forest AND forecast,0
+Zika,mosquito,virus,N,random forest,early warning system,Zika AND random forest AND early warning system,2
+Zika,mosquito,virus,N,random forest,diagnostic,Zika AND random forest AND diagnostic,2
+Zika,mosquito,virus,N,decision trees,surveillance,Zika AND decision trees AND surveillance,5
+Zika,mosquito,virus,N,decision trees,forecast,Zika AND decision trees AND forecast,1
+Zika,mosquito,virus,N,decision trees,early warning system,Zika AND decision trees AND early warning system,0
+Zika,mosquito,virus,N,decision trees,diagnostic,Zika AND decision trees AND diagnostic,3
+Zika,mosquito,virus,N,gradient boosting,surveillance,Zika AND gradient boosting AND surveillance,4
+Zika,mosquito,virus,N,gradient boosting,forecast,Zika AND gradient boosting AND forecast,1
+Zika,mosquito,virus,N,gradient boosting,early warning system,Zika AND gradient boosting AND early warning system,0
+Zika,mosquito,virus,N,gradient boosting,diagnostic,Zika AND gradient boosting AND diagnostic,1
+Zika,mosquito,virus,N,natural language processing,surveillance,Zika AND natural language processing AND surveillance,4
+Zika,mosquito,virus,N,natural language processing,forecast,Zika AND natural language processing AND forecast,0
+Zika,mosquito,virus,N,natural language processing,early warning system,Zika AND natural language processing AND early warning system,0
+Zika,mosquito,virus,N,natural language processing,diagnostic,Zika AND natural language processing AND diagnostic,1
+Zika,mosquito,virus,N,sentiment analysis,surveillance,Zika AND sentiment analysis AND surveillance,3
+Zika,mosquito,virus,N,sentiment analysis,forecast,Zika AND sentiment analysis AND forecast,1
+Zika,mosquito,virus,N,sentiment analysis,early warning system,Zika AND sentiment analysis AND early warning system,0
+Zika,mosquito,virus,N,sentiment analysis,diagnostic,Zika AND sentiment analysis AND diagnostic,0
+Zika,mosquito,virus,N,fuzzy logic,surveillance,Zika AND fuzzy logic AND surveillance,0
+Zika,mosquito,virus,N,fuzzy logic,forecast,Zika AND fuzzy logic AND forecast,0
+Zika,mosquito,virus,N,fuzzy logic,early warning system,Zika AND fuzzy logic AND early warning system,0
+Zika,mosquito,virus,N,fuzzy logic,diagnostic,Zika AND fuzzy logic AND diagnostic,0
+Chikungunya,mosquito,virus,Y,deep learning,surveillance,Chikungunya AND deep learning AND surveillance,1
+Chikungunya,mosquito,virus,Y,deep learning,forecast,Chikungunya AND deep learning AND forecast,0
+Chikungunya,mosquito,virus,Y,deep learning,early warning system,Chikungunya AND deep learning AND early warning system,0
+Chikungunya,mosquito,virus,Y,deep learning,diagnostic,Chikungunya AND deep learning AND diagnostic,3
+Chikungunya,mosquito,virus,Y,machine learning,surveillance,Chikungunya AND machine learning AND surveillance,11
+Chikungunya,mosquito,virus,Y,machine learning,forecast,Chikungunya AND machine learning AND forecast,3
+Chikungunya,mosquito,virus,Y,machine learning,early warning system,Chikungunya AND machine learning AND early warning system,3
+Chikungunya,mosquito,virus,Y,machine learning,diagnostic,Chikungunya AND machine learning AND diagnostic,6
+Chikungunya,mosquito,virus,Y,k-means clustering,surveillance,Chikungunya AND k-means clustering AND surveillance,0
+Chikungunya,mosquito,virus,Y,k-means clustering,forecast,Chikungunya AND k-means clustering AND forecast,0
+Chikungunya,mosquito,virus,Y,k-means clustering,early warning system,Chikungunya AND k-means clustering AND early warning system,0
+Chikungunya,mosquito,virus,Y,k-means clustering,diagnostic,Chikungunya AND k-means clustering AND diagnostic,0
+Chikungunya,mosquito,virus,Y,logistic regression,surveillance,Chikungunya AND logistic regression AND surveillance,65
+Chikungunya,mosquito,virus,Y,logistic regression,forecast,Chikungunya AND logistic regression AND forecast,2
+Chikungunya,mosquito,virus,Y,logistic regression,early warning system,Chikungunya AND logistic regression AND early warning system,1
+Chikungunya,mosquito,virus,Y,logistic regression,diagnostic,Chikungunya AND logistic regression AND diagnostic,29
+Chikungunya,mosquito,virus,Y,support vector machine,surveillance,Chikungunya AND support vector machine AND surveillance,7
+Chikungunya,mosquito,virus,Y,support vector machine,forecast,Chikungunya AND support vector machine AND forecast,3
+Chikungunya,mosquito,virus,Y,support vector machine,early warning system,Chikungunya AND support vector machine AND early warning system,3
+Chikungunya,mosquito,virus,Y,support vector machine,diagnostic,Chikungunya AND support vector machine AND diagnostic,2
+Chikungunya,mosquito,virus,Y,text mining,surveillance,Chikungunya AND text mining AND surveillance,7
+Chikungunya,mosquito,virus,Y,text mining,forecast,Chikungunya AND text mining AND forecast,2
+Chikungunya,mosquito,virus,Y,text mining,early warning system,Chikungunya AND text mining AND early warning system,0
+Chikungunya,mosquito,virus,Y,text mining,diagnostic,Chikungunya AND text mining AND diagnostic,2
+Chikungunya,mosquito,virus,Y,artificial neural networks,surveillance,Chikungunya AND artificial neural networks AND surveillance,1
+Chikungunya,mosquito,virus,Y,artificial neural networks,forecast,Chikungunya AND artificial neural networks AND forecast,0
+Chikungunya,mosquito,virus,Y,artificial neural networks,early warning system,Chikungunya AND artificial neural networks AND early warning system,0
+Chikungunya,mosquito,virus,Y,artificial neural networks,diagnostic,Chikungunya AND artificial neural networks AND diagnostic,3
+Chikungunya,mosquito,virus,Y,expert system,surveillance,Chikungunya AND expert system AND surveillance,7
+Chikungunya,mosquito,virus,Y,expert system,forecast,Chikungunya AND expert system AND forecast,1
+Chikungunya,mosquito,virus,Y,expert system,early warning system,Chikungunya AND expert system AND early warning system,2
+Chikungunya,mosquito,virus,Y,expert system,diagnostic,Chikungunya AND expert system AND diagnostic,3
+Chikungunya,mosquito,virus,Y,random forest,surveillance,Chikungunya AND random forest AND surveillance,6
+Chikungunya,mosquito,virus,Y,random forest,forecast,Chikungunya AND random forest AND forecast,0
+Chikungunya,mosquito,virus,Y,random forest,early warning system,Chikungunya AND random forest AND early warning system,2
+Chikungunya,mosquito,virus,Y,random forest,diagnostic,Chikungunya AND random forest AND diagnostic,2
+Chikungunya,mosquito,virus,Y,decision trees,surveillance,Chikungunya AND decision trees AND surveillance,2
+Chikungunya,mosquito,virus,Y,decision trees,forecast,Chikungunya AND decision trees AND forecast,0
+Chikungunya,mosquito,virus,Y,decision trees,early warning system,Chikungunya AND decision trees AND early warning system,0
+Chikungunya,mosquito,virus,Y,decision trees,diagnostic,Chikungunya AND decision trees AND diagnostic,2
+Chikungunya,mosquito,virus,Y,gradient boosting,surveillance,Chikungunya AND gradient boosting AND surveillance,1
+Chikungunya,mosquito,virus,Y,gradient boosting,forecast,Chikungunya AND gradient boosting AND forecast,0
+Chikungunya,mosquito,virus,Y,gradient boosting,early warning system,Chikungunya AND gradient boosting AND early warning system,0
+Chikungunya,mosquito,virus,Y,gradient boosting,diagnostic,Chikungunya AND gradient boosting AND diagnostic,0
+Chikungunya,mosquito,virus,Y,natural language processing,surveillance,Chikungunya AND natural language processing AND surveillance,0
+Chikungunya,mosquito,virus,Y,natural language processing,forecast,Chikungunya AND natural language processing AND forecast,0
+Chikungunya,mosquito,virus,Y,natural language processing,early warning system,Chikungunya AND natural language processing AND early warning system,0
+Chikungunya,mosquito,virus,Y,natural language processing,diagnostic,Chikungunya AND natural language processing AND diagnostic,0
+Chikungunya,mosquito,virus,Y,sentiment analysis,surveillance,Chikungunya AND sentiment analysis AND surveillance,1
+Chikungunya,mosquito,virus,Y,sentiment analysis,forecast,Chikungunya AND sentiment analysis AND forecast,0
+Chikungunya,mosquito,virus,Y,sentiment analysis,early warning system,Chikungunya AND sentiment analysis AND early warning system,0
+Chikungunya,mosquito,virus,Y,sentiment analysis,diagnostic,Chikungunya AND sentiment analysis AND diagnostic,0
+Chikungunya,mosquito,virus,Y,fuzzy logic,surveillance,Chikungunya AND fuzzy logic AND surveillance,0
+Chikungunya,mosquito,virus,Y,fuzzy logic,forecast,Chikungunya AND fuzzy logic AND forecast,0
+Chikungunya,mosquito,virus,Y,fuzzy logic,early warning system,Chikungunya AND fuzzy logic AND early warning system,0
+Chikungunya,mosquito,virus,Y,fuzzy logic,diagnostic,Chikungunya AND fuzzy logic AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,deep learning,surveillance,lymphatic filariasis AND deep learning AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,deep learning,forecast,lymphatic filariasis AND deep learning AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,deep learning,early warning system,lymphatic filariasis AND deep learning AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,deep learning,diagnostic,lymphatic filariasis AND deep learning AND diagnostic,1
+lymphatic filariasis,mosquito,parasite,Y,machine learning,surveillance,lymphatic filariasis AND machine learning AND surveillance,7
+lymphatic filariasis,mosquito,parasite,Y,machine learning,forecast,lymphatic filariasis AND machine learning AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,machine learning,early warning system,lymphatic filariasis AND machine learning AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,machine learning,diagnostic,lymphatic filariasis AND machine learning AND diagnostic,2
+lymphatic filariasis,mosquito,parasite,Y,k-means clustering,surveillance,lymphatic filariasis AND k-means clustering AND surveillance,1
+lymphatic filariasis,mosquito,parasite,Y,k-means clustering,forecast,lymphatic filariasis AND k-means clustering AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,k-means clustering,early warning system,lymphatic filariasis AND k-means clustering AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,k-means clustering,diagnostic,lymphatic filariasis AND k-means clustering AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,logistic regression,surveillance,lymphatic filariasis AND logistic regression AND surveillance,45
+lymphatic filariasis,mosquito,parasite,Y,logistic regression,forecast,lymphatic filariasis AND logistic regression AND forecast,2
+lymphatic filariasis,mosquito,parasite,Y,logistic regression,early warning system,lymphatic filariasis AND logistic regression AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,logistic regression,diagnostic,lymphatic filariasis AND logistic regression AND diagnostic,11
+lymphatic filariasis,mosquito,parasite,Y,support vector machine,surveillance,lymphatic filariasis AND support vector machine AND surveillance,1
+lymphatic filariasis,mosquito,parasite,Y,support vector machine,forecast,lymphatic filariasis AND support vector machine AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,support vector machine,early warning system,lymphatic filariasis AND support vector machine AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,support vector machine,diagnostic,lymphatic filariasis AND support vector machine AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,text mining,surveillance,lymphatic filariasis AND text mining AND surveillance,2
+lymphatic filariasis,mosquito,parasite,Y,text mining,forecast,lymphatic filariasis AND text mining AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,text mining,early warning system,lymphatic filariasis AND text mining AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,text mining,diagnostic,lymphatic filariasis AND text mining AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,artificial neural networks,surveillance,lymphatic filariasis AND artificial neural networks AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,artificial neural networks,forecast,lymphatic filariasis AND artificial neural networks AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,artificial neural networks,early warning system,lymphatic filariasis AND artificial neural networks AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,artificial neural networks,diagnostic,lymphatic filariasis AND artificial neural networks AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,expert system,surveillance,lymphatic filariasis AND expert system AND surveillance,3
+lymphatic filariasis,mosquito,parasite,Y,expert system,forecast,lymphatic filariasis AND expert system AND forecast,2
+lymphatic filariasis,mosquito,parasite,Y,expert system,early warning system,lymphatic filariasis AND expert system AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,expert system,diagnostic,lymphatic filariasis AND expert system AND diagnostic,2
+lymphatic filariasis,mosquito,parasite,Y,random forest,surveillance,lymphatic filariasis AND random forest AND surveillance,2
+lymphatic filariasis,mosquito,parasite,Y,random forest,forecast,lymphatic filariasis AND random forest AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,random forest,early warning system,lymphatic filariasis AND random forest AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,random forest,diagnostic,lymphatic filariasis AND random forest AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,decision trees,surveillance,lymphatic filariasis AND decision trees AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,decision trees,forecast,lymphatic filariasis AND decision trees AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,decision trees,early warning system,lymphatic filariasis AND decision trees AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,decision trees,diagnostic,lymphatic filariasis AND decision trees AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,gradient boosting,surveillance,lymphatic filariasis AND gradient boosting AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,gradient boosting,forecast,lymphatic filariasis AND gradient boosting AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,gradient boosting,early warning system,lymphatic filariasis AND gradient boosting AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,gradient boosting,diagnostic,lymphatic filariasis AND gradient boosting AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,natural language processing,surveillance,lymphatic filariasis AND natural language processing AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,natural language processing,forecast,lymphatic filariasis AND natural language processing AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,natural language processing,early warning system,lymphatic filariasis AND natural language processing AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,natural language processing,diagnostic,lymphatic filariasis AND natural language processing AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,sentiment analysis,surveillance,lymphatic filariasis AND sentiment analysis AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,sentiment analysis,forecast,lymphatic filariasis AND sentiment analysis AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,sentiment analysis,early warning system,lymphatic filariasis AND sentiment analysis AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,sentiment analysis,diagnostic,lymphatic filariasis AND sentiment analysis AND diagnostic,0
+lymphatic filariasis,mosquito,parasite,Y,fuzzy logic,surveillance,lymphatic filariasis AND fuzzy logic AND surveillance,0
+lymphatic filariasis,mosquito,parasite,Y,fuzzy logic,forecast,lymphatic filariasis AND fuzzy logic AND forecast,0
+lymphatic filariasis,mosquito,parasite,Y,fuzzy logic,early warning system,lymphatic filariasis AND fuzzy logic AND early warning system,0
+lymphatic filariasis,mosquito,parasite,Y,fuzzy logic,diagnostic,lymphatic filariasis AND fuzzy logic AND diagnostic,0
+rift valley fever,mosquito,virus,N,deep learning,surveillance,rift valley fever AND deep learning AND surveillance,0
+rift valley fever,mosquito,virus,N,deep learning,forecast,rift valley fever AND deep learning AND forecast,0
+rift valley fever,mosquito,virus,N,deep learning,early warning system,rift valley fever AND deep learning AND early warning system,0
+rift valley fever,mosquito,virus,N,deep learning,diagnostic,rift valley fever AND deep learning AND diagnostic,0
+rift valley fever,mosquito,virus,N,machine learning,surveillance,rift valley fever AND machine learning AND surveillance,2
+rift valley fever,mosquito,virus,N,machine learning,forecast,rift valley fever AND machine learning AND forecast,0
+rift valley fever,mosquito,virus,N,machine learning,early warning system,rift valley fever AND machine learning AND early warning system,0
+rift valley fever,mosquito,virus,N,machine learning,diagnostic,rift valley fever AND machine learning AND diagnostic,0
+rift valley fever,mosquito,virus,N,k-means clustering,surveillance,rift valley fever AND k-means clustering AND surveillance,0
+rift valley fever,mosquito,virus,N,k-means clustering,forecast,rift valley fever AND k-means clustering AND forecast,0
+rift valley fever,mosquito,virus,N,k-means clustering,early warning system,rift valley fever AND k-means clustering AND early warning system,0
+rift valley fever,mosquito,virus,N,k-means clustering,diagnostic,rift valley fever AND k-means clustering AND diagnostic,0
+rift valley fever,mosquito,virus,N,logistic regression,surveillance,rift valley fever AND logistic regression AND surveillance,24
+rift valley fever,mosquito,virus,N,logistic regression,forecast,rift valley fever AND logistic regression AND forecast,0
+rift valley fever,mosquito,virus,N,logistic regression,early warning system,rift valley fever AND logistic regression AND early warning system,1
+rift valley fever,mosquito,virus,N,logistic regression,diagnostic,rift valley fever AND logistic regression AND diagnostic,8
+rift valley fever,mosquito,virus,N,support vector machine,surveillance,rift valley fever AND support vector machine AND surveillance,2
+rift valley fever,mosquito,virus,N,support vector machine,forecast,rift valley fever AND support vector machine AND forecast,0
+rift valley fever,mosquito,virus,N,support vector machine,early warning system,rift valley fever AND support vector machine AND early warning system,0
+rift valley fever,mosquito,virus,N,support vector machine,diagnostic,rift valley fever AND support vector machine AND diagnostic,1
+rift valley fever,mosquito,virus,N,text mining,surveillance,rift valley fever AND text mining AND surveillance,1
+rift valley fever,mosquito,virus,N,text mining,forecast,rift valley fever AND text mining AND forecast,0
+rift valley fever,mosquito,virus,N,text mining,early warning system,rift valley fever AND text mining AND early warning system,0
+rift valley fever,mosquito,virus,N,text mining,diagnostic,rift valley fever AND text mining AND diagnostic,0
+rift valley fever,mosquito,virus,N,artificial neural networks,surveillance,rift valley fever AND artificial neural networks AND surveillance,0
+rift valley fever,mosquito,virus,N,artificial neural networks,forecast,rift valley fever AND artificial neural networks AND forecast,0
+rift valley fever,mosquito,virus,N,artificial neural networks,early warning system,rift valley fever AND artificial neural networks AND early warning system,0
+rift valley fever,mosquito,virus,N,artificial neural networks,diagnostic,rift valley fever AND artificial neural networks AND diagnostic,0
+rift valley fever,mosquito,virus,N,expert system,surveillance,rift valley fever AND expert system AND surveillance,3
+rift valley fever,mosquito,virus,N,expert system,forecast,rift valley fever AND expert system AND forecast,1
+rift valley fever,mosquito,virus,N,expert system,early warning system,rift valley fever AND expert system AND early warning system,0
+rift valley fever,mosquito,virus,N,expert system,diagnostic,rift valley fever AND expert system AND diagnostic,1
+rift valley fever,mosquito,virus,N,random forest,surveillance,rift valley fever AND random forest AND surveillance,1
+rift valley fever,mosquito,virus,N,random forest,forecast,rift valley fever AND random forest AND forecast,0
+rift valley fever,mosquito,virus,N,random forest,early warning system,rift valley fever AND random forest AND early warning system,0
+rift valley fever,mosquito,virus,N,random forest,diagnostic,rift valley fever AND random forest AND diagnostic,0
+rift valley fever,mosquito,virus,N,decision trees,surveillance,rift valley fever AND decision trees AND surveillance,1
+rift valley fever,mosquito,virus,N,decision trees,forecast,rift valley fever AND decision trees AND forecast,0
+rift valley fever,mosquito,virus,N,decision trees,early warning system,rift valley fever AND decision trees AND early warning system,0
+rift valley fever,mosquito,virus,N,decision trees,diagnostic,rift valley fever AND decision trees AND diagnostic,0
+rift valley fever,mosquito,virus,N,gradient boosting,surveillance,rift valley fever AND gradient boosting AND surveillance,1
+rift valley fever,mosquito,virus,N,gradient boosting,forecast,rift valley fever AND gradient boosting AND forecast,0
+rift valley fever,mosquito,virus,N,gradient boosting,early warning system,rift valley fever AND gradient boosting AND early warning system,0
+rift valley fever,mosquito,virus,N,gradient boosting,diagnostic,rift valley fever AND gradient boosting AND diagnostic,0
+rift valley fever,mosquito,virus,N,natural language processing,surveillance,rift valley fever AND natural language processing AND surveillance,0
+rift valley fever,mosquito,virus,N,natural language processing,forecast,rift valley fever AND natural language processing AND forecast,0
+rift valley fever,mosquito,virus,N,natural language processing,early warning system,rift valley fever AND natural language processing AND early warning system,0
+rift valley fever,mosquito,virus,N,natural language processing,diagnostic,rift valley fever AND natural language processing AND diagnostic,0
+rift valley fever,mosquito,virus,N,sentiment analysis,surveillance,rift valley fever AND sentiment analysis AND surveillance,0
+rift valley fever,mosquito,virus,N,sentiment analysis,forecast,rift valley fever AND sentiment analysis AND forecast,0
+rift valley fever,mosquito,virus,N,sentiment analysis,early warning system,rift valley fever AND sentiment analysis AND early warning system,0
+rift valley fever,mosquito,virus,N,sentiment analysis,diagnostic,rift valley fever AND sentiment analysis AND diagnostic,0
+rift valley fever,mosquito,virus,N,fuzzy logic,surveillance,rift valley fever AND fuzzy logic AND surveillance,1
+rift valley fever,mosquito,virus,N,fuzzy logic,forecast,rift valley fever AND fuzzy logic AND forecast,0
+rift valley fever,mosquito,virus,N,fuzzy logic,early warning system,rift valley fever AND fuzzy logic AND early warning system,0
+rift valley fever,mosquito,virus,N,fuzzy logic,diagnostic,rift valley fever AND fuzzy logic AND diagnostic,0
+yellow fever,mosquito,virus,Y,deep learning,surveillance,yellow fever AND deep learning AND surveillance,1
+yellow fever,mosquito,virus,Y,deep learning,forecast,yellow fever AND deep learning AND forecast,0
+yellow fever,mosquito,virus,Y,deep learning,early warning system,yellow fever AND deep learning AND early warning system,0
+yellow fever,mosquito,virus,Y,deep learning,diagnostic,yellow fever AND deep learning AND diagnostic,0
+yellow fever,mosquito,virus,Y,machine learning,surveillance,yellow fever AND machine learning AND surveillance,7
+yellow fever,mosquito,virus,Y,machine learning,forecast,yellow fever AND machine learning AND forecast,2
+yellow fever,mosquito,virus,Y,machine learning,early warning system,yellow fever AND machine learning AND early warning system,1
+yellow fever,mosquito,virus,Y,machine learning,diagnostic,yellow fever AND machine learning AND diagnostic,4
+yellow fever,mosquito,virus,Y,k-means clustering,surveillance,yellow fever AND k-means clustering AND surveillance,0
+yellow fever,mosquito,virus,Y,k-means clustering,forecast,yellow fever AND k-means clustering AND forecast,0
+yellow fever,mosquito,virus,Y,k-means clustering,early warning system,yellow fever AND k-means clustering AND early warning system,0
+yellow fever,mosquito,virus,Y,k-means clustering,diagnostic,yellow fever AND k-means clustering AND diagnostic,0
+yellow fever,mosquito,virus,Y,logistic regression,surveillance,yellow fever AND logistic regression AND surveillance,29
+yellow fever,mosquito,virus,Y,logistic regression,forecast,yellow fever AND logistic regression AND forecast,2
+yellow fever,mosquito,virus,Y,logistic regression,early warning system,yellow fever AND logistic regression AND early warning system,0
+yellow fever,mosquito,virus,Y,logistic regression,diagnostic,yellow fever AND logistic regression AND diagnostic,13
+yellow fever,mosquito,virus,Y,support vector machine,surveillance,yellow fever AND support vector machine AND surveillance,3
+yellow fever,mosquito,virus,Y,support vector machine,forecast,yellow fever AND support vector machine AND forecast,1
+yellow fever,mosquito,virus,Y,support vector machine,early warning system,yellow fever AND support vector machine AND early warning system,1
+yellow fever,mosquito,virus,Y,support vector machine,diagnostic,yellow fever AND support vector machine AND diagnostic,0
+yellow fever,mosquito,virus,Y,text mining,surveillance,yellow fever AND text mining AND surveillance,3
+yellow fever,mosquito,virus,Y,text mining,forecast,yellow fever AND text mining AND forecast,0
+yellow fever,mosquito,virus,Y,text mining,early warning system,yellow fever AND text mining AND early warning system,0
+yellow fever,mosquito,virus,Y,text mining,diagnostic,yellow fever AND text mining AND diagnostic,1
+yellow fever,mosquito,virus,Y,artificial neural networks,surveillance,yellow fever AND artificial neural networks AND surveillance,1
+yellow fever,mosquito,virus,Y,artificial neural networks,forecast,yellow fever AND artificial neural networks AND forecast,0
+yellow fever,mosquito,virus,Y,artificial neural networks,early warning system,yellow fever AND artificial neural networks AND early warning system,0
+yellow fever,mosquito,virus,Y,artificial neural networks,diagnostic,yellow fever AND artificial neural networks AND diagnostic,1
+yellow fever,mosquito,virus,Y,expert system,surveillance,yellow fever AND expert system AND surveillance,6
+yellow fever,mosquito,virus,Y,expert system,forecast,yellow fever AND expert system AND forecast,0
+yellow fever,mosquito,virus,Y,expert system,early warning system,yellow fever AND expert system AND early warning system,0
+yellow fever,mosquito,virus,Y,expert system,diagnostic,yellow fever AND expert system AND diagnostic,2
+yellow fever,mosquito,virus,Y,random forest,surveillance,yellow fever AND random forest AND surveillance,7
+yellow fever,mosquito,virus,Y,random forest,forecast,yellow fever AND random forest AND forecast,1
+yellow fever,mosquito,virus,Y,random forest,early warning system,yellow fever AND random forest AND early warning system,0
+yellow fever,mosquito,virus,Y,random forest,diagnostic,yellow fever AND random forest AND diagnostic,3
+yellow fever,mosquito,virus,Y,decision trees,surveillance,yellow fever AND decision trees AND surveillance,1
+yellow fever,mosquito,virus,Y,decision trees,forecast,yellow fever AND decision trees AND forecast,0
+yellow fever,mosquito,virus,Y,decision trees,early warning system,yellow fever AND decision trees AND early warning system,0
+yellow fever,mosquito,virus,Y,decision trees,diagnostic,yellow fever AND decision trees AND diagnostic,0
+yellow fever,mosquito,virus,Y,gradient boosting,surveillance,yellow fever AND gradient boosting AND surveillance,1
+yellow fever,mosquito,virus,Y,gradient boosting,forecast,yellow fever AND gradient boosting AND forecast,0
+yellow fever,mosquito,virus,Y,gradient boosting,early warning system,yellow fever AND gradient boosting AND early warning system,0
+yellow fever,mosquito,virus,Y,gradient boosting,diagnostic,yellow fever AND gradient boosting AND diagnostic,0
+yellow fever,mosquito,virus,Y,natural language processing,surveillance,yellow fever AND natural language processing AND surveillance,0
+yellow fever,mosquito,virus,Y,natural language processing,forecast,yellow fever AND natural language processing AND forecast,0
+yellow fever,mosquito,virus,Y,natural language processing,early warning system,yellow fever AND natural language processing AND early warning system,0
+yellow fever,mosquito,virus,Y,natural language processing,diagnostic,yellow fever AND natural language processing AND diagnostic,0
+yellow fever,mosquito,virus,Y,sentiment analysis,surveillance,yellow fever AND sentiment analysis AND surveillance,1
+yellow fever,mosquito,virus,Y,sentiment analysis,forecast,yellow fever AND sentiment analysis AND forecast,0
+yellow fever,mosquito,virus,Y,sentiment analysis,early warning system,yellow fever AND sentiment analysis AND early warning system,0
+yellow fever,mosquito,virus,Y,sentiment analysis,diagnostic,yellow fever AND sentiment analysis AND diagnostic,0
+yellow fever,mosquito,virus,Y,fuzzy logic,surveillance,yellow fever AND fuzzy logic AND surveillance,0
+yellow fever,mosquito,virus,Y,fuzzy logic,forecast,yellow fever AND fuzzy logic AND forecast,0
+yellow fever,mosquito,virus,Y,fuzzy logic,early warning system,yellow fever AND fuzzy logic AND early warning system,0
+yellow fever,mosquito,virus,Y,fuzzy logic,diagnostic,yellow fever AND fuzzy logic AND diagnostic,0
+malaria,mosquito,parasite,Y,deep learning,surveillance,malaria AND deep learning AND surveillance,20
+malaria,mosquito,parasite,Y,deep learning,forecast,malaria AND deep learning AND forecast,8
+malaria,mosquito,parasite,Y,deep learning,early warning system,malaria AND deep learning AND early warning system,2
+malaria,mosquito,parasite,Y,deep learning,diagnostic,malaria AND deep learning AND diagnostic,77
+malaria,mosquito,parasite,Y,machine learning,surveillance,malaria AND machine learning AND surveillance,98
+malaria,mosquito,parasite,Y,machine learning,forecast,malaria AND machine learning AND forecast,28
+malaria,mosquito,parasite,Y,machine learning,early warning system,malaria AND machine learning AND early warning system,7
+malaria,mosquito,parasite,Y,machine learning,diagnostic,malaria AND machine learning AND diagnostic,148
+malaria,mosquito,parasite,Y,k-means clustering,surveillance,malaria AND k-means clustering AND surveillance,11
+malaria,mosquito,parasite,Y,k-means clustering,forecast,malaria AND k-means clustering AND forecast,2
+malaria,mosquito,parasite,Y,k-means clustering,early warning system,malaria AND k-means clustering AND early warning system,0
+malaria,mosquito,parasite,Y,k-means clustering,diagnostic,malaria AND k-means clustering AND diagnostic,9
+malaria,mosquito,parasite,Y,logistic regression,surveillance,malaria AND logistic regression AND surveillance,1414
+malaria,mosquito,parasite,Y,logistic regression,forecast,malaria AND logistic regression AND forecast,86
+malaria,mosquito,parasite,Y,logistic regression,early warning system,malaria AND logistic regression AND early warning system,4
+malaria,mosquito,parasite,Y,logistic regression,diagnostic,malaria AND logistic regression AND diagnostic,806
+malaria,mosquito,parasite,Y,support vector machine,surveillance,malaria AND support vector machine AND surveillance,22
+malaria,mosquito,parasite,Y,support vector machine,forecast,malaria AND support vector machine AND forecast,5
+malaria,mosquito,parasite,Y,support vector machine,early warning system,malaria AND support vector machine AND early warning system,3
+malaria,mosquito,parasite,Y,support vector machine,diagnostic,malaria AND support vector machine AND diagnostic,26
+malaria,mosquito,parasite,Y,text mining,surveillance,malaria AND text mining AND surveillance,94
+malaria,mosquito,parasite,Y,text mining,forecast,malaria AND text mining AND forecast,10
+malaria,mosquito,parasite,Y,text mining,early warning system,malaria AND text mining AND early warning system,2
+malaria,mosquito,parasite,Y,text mining,diagnostic,malaria AND text mining AND diagnostic,54
+malaria,mosquito,parasite,Y,artificial neural networks,surveillance,malaria AND artificial neural networks AND surveillance,13
+malaria,mosquito,parasite,Y,artificial neural networks,forecast,malaria AND artificial neural networks AND forecast,6
+malaria,mosquito,parasite,Y,artificial neural networks,early warning system,malaria AND artificial neural networks AND early warning system,0
+malaria,mosquito,parasite,Y,artificial neural networks,diagnostic,malaria AND artificial neural networks AND diagnostic,27
+malaria,mosquito,parasite,Y,expert system,surveillance,malaria AND expert system AND surveillance,56
+malaria,mosquito,parasite,Y,expert system,forecast,malaria AND expert system AND forecast,19
+malaria,mosquito,parasite,Y,expert system,early warning system,malaria AND expert system AND early warning system,0
+malaria,mosquito,parasite,Y,expert system,diagnostic,malaria AND expert system AND diagnostic,72
+malaria,mosquito,parasite,Y,random forest,surveillance,malaria AND random forest AND surveillance,45
+malaria,mosquito,parasite,Y,random forest,forecast,malaria AND random forest AND forecast,6
+malaria,mosquito,parasite,Y,random forest,early warning system,malaria AND random forest AND early warning system,3
+malaria,mosquito,parasite,Y,random forest,diagnostic,malaria AND random forest AND diagnostic,37
+malaria,mosquito,parasite,Y,decision trees,surveillance,malaria AND decision trees AND surveillance,33
+malaria,mosquito,parasite,Y,decision trees,forecast,malaria AND decision trees AND forecast,0
+malaria,mosquito,parasite,Y,decision trees,early warning system,malaria AND decision trees AND early warning system,0
+malaria,mosquito,parasite,Y,decision trees,diagnostic,malaria AND decision trees AND diagnostic,30
+malaria,mosquito,parasite,Y,gradient boosting,surveillance,malaria AND gradient boosting AND surveillance,10
+malaria,mosquito,parasite,Y,gradient boosting,forecast,malaria AND gradient boosting AND forecast,0
+malaria,mosquito,parasite,Y,gradient boosting,early warning system,malaria AND gradient boosting AND early warning system,0
+malaria,mosquito,parasite,Y,gradient boosting,diagnostic,malaria AND gradient boosting AND diagnostic,2
+malaria,mosquito,parasite,Y,natural language processing,surveillance,malaria AND natural language processing AND surveillance,2
+malaria,mosquito,parasite,Y,natural language processing,forecast,malaria AND natural language processing AND forecast,0
+malaria,mosquito,parasite,Y,natural language processing,early warning system,malaria AND natural language processing AND early warning system,0
+malaria,mosquito,parasite,Y,natural language processing,diagnostic,malaria AND natural language processing AND diagnostic,1
+malaria,mosquito,parasite,Y,sentiment analysis,surveillance,malaria AND sentiment analysis AND surveillance,1
+malaria,mosquito,parasite,Y,sentiment analysis,forecast,malaria AND sentiment analysis AND forecast,0
+malaria,mosquito,parasite,Y,sentiment analysis,early warning system,malaria AND sentiment analysis AND early warning system,0
+malaria,mosquito,parasite,Y,sentiment analysis,diagnostic,malaria AND sentiment analysis AND diagnostic,0
+malaria,mosquito,parasite,Y,fuzzy logic,surveillance,malaria AND fuzzy logic AND surveillance,6
+malaria,mosquito,parasite,Y,fuzzy logic,forecast,malaria AND fuzzy logic AND forecast,2
+malaria,mosquito,parasite,Y,fuzzy logic,early warning system,malaria AND fuzzy logic AND early warning system,0
+malaria,mosquito,parasite,Y,fuzzy logic,diagnostic,malaria AND fuzzy logic AND diagnostic,4
+japanese encephalitis,mosquito,virus,N,deep learning,surveillance,japanese encephalitis AND deep learning AND surveillance,0
+japanese encephalitis,mosquito,virus,N,deep learning,forecast,japanese encephalitis AND deep learning AND forecast,0
+japanese encephalitis,mosquito,virus,N,deep learning,early warning system,japanese encephalitis AND deep learning AND early warning system,0
+japanese encephalitis,mosquito,virus,N,deep learning,diagnostic,japanese encephalitis AND deep learning AND diagnostic,1
+japanese encephalitis,mosquito,virus,N,machine learning,surveillance,japanese encephalitis AND machine learning AND surveillance,0
+japanese encephalitis,mosquito,virus,N,machine learning,forecast,japanese encephalitis AND machine learning AND forecast,1
+japanese encephalitis,mosquito,virus,N,machine learning,early warning system,japanese encephalitis AND machine learning AND early warning system,0
+japanese encephalitis,mosquito,virus,N,machine learning,diagnostic,japanese encephalitis AND machine learning AND diagnostic,1
+japanese encephalitis,mosquito,virus,N,k-means clustering,surveillance,japanese encephalitis AND k-means clustering AND surveillance,0
+japanese encephalitis,mosquito,virus,N,k-means clustering,forecast,japanese encephalitis AND k-means clustering AND forecast,0
+japanese encephalitis,mosquito,virus,N,k-means clustering,early warning system,japanese encephalitis AND k-means clustering AND early warning system,0
+japanese encephalitis,mosquito,virus,N,k-means clustering,diagnostic,japanese encephalitis AND k-means clustering AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,logistic regression,surveillance,japanese encephalitis AND logistic regression AND surveillance,30
+japanese encephalitis,mosquito,virus,N,logistic regression,forecast,japanese encephalitis AND logistic regression AND forecast,2
+japanese encephalitis,mosquito,virus,N,logistic regression,early warning system,japanese encephalitis AND logistic regression AND early warning system,0
+japanese encephalitis,mosquito,virus,N,logistic regression,diagnostic,japanese encephalitis AND logistic regression AND diagnostic,19
+japanese encephalitis,mosquito,virus,N,support vector machine,surveillance,japanese encephalitis AND support vector machine AND surveillance,1
+japanese encephalitis,mosquito,virus,N,support vector machine,forecast,japanese encephalitis AND support vector machine AND forecast,0
+japanese encephalitis,mosquito,virus,N,support vector machine,early warning system,japanese encephalitis AND support vector machine AND early warning system,0
+japanese encephalitis,mosquito,virus,N,support vector machine,diagnostic,japanese encephalitis AND support vector machine AND diagnostic,1
+japanese encephalitis,mosquito,virus,N,text mining,surveillance,japanese encephalitis AND text mining AND surveillance,3
+japanese encephalitis,mosquito,virus,N,text mining,forecast,japanese encephalitis AND text mining AND forecast,1
+japanese encephalitis,mosquito,virus,N,text mining,early warning system,japanese encephalitis AND text mining AND early warning system,0
+japanese encephalitis,mosquito,virus,N,text mining,diagnostic,japanese encephalitis AND text mining AND diagnostic,2
+japanese encephalitis,mosquito,virus,N,artificial neural networks,surveillance,japanese encephalitis AND artificial neural networks AND surveillance,0
+japanese encephalitis,mosquito,virus,N,artificial neural networks,forecast,japanese encephalitis AND artificial neural networks AND forecast,0
+japanese encephalitis,mosquito,virus,N,artificial neural networks,early warning system,japanese encephalitis AND artificial neural networks AND early warning system,0
+japanese encephalitis,mosquito,virus,N,artificial neural networks,diagnostic,japanese encephalitis AND artificial neural networks AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,expert system,surveillance,japanese encephalitis AND expert system AND surveillance,2
+japanese encephalitis,mosquito,virus,N,expert system,forecast,japanese encephalitis AND expert system AND forecast,0
+japanese encephalitis,mosquito,virus,N,expert system,early warning system,japanese encephalitis AND expert system AND early warning system,0
+japanese encephalitis,mosquito,virus,N,expert system,diagnostic,japanese encephalitis AND expert system AND diagnostic,4
+japanese encephalitis,mosquito,virus,N,random forest,surveillance,japanese encephalitis AND random forest AND surveillance,1
+japanese encephalitis,mosquito,virus,N,random forest,forecast,japanese encephalitis AND random forest AND forecast,0
+japanese encephalitis,mosquito,virus,N,random forest,early warning system,japanese encephalitis AND random forest AND early warning system,0
+japanese encephalitis,mosquito,virus,N,random forest,diagnostic,japanese encephalitis AND random forest AND diagnostic,1
+japanese encephalitis,mosquito,virus,N,decision trees,surveillance,japanese encephalitis AND decision trees AND surveillance,0
+japanese encephalitis,mosquito,virus,N,decision trees,forecast,japanese encephalitis AND decision trees AND forecast,0
+japanese encephalitis,mosquito,virus,N,decision trees,early warning system,japanese encephalitis AND decision trees AND early warning system,0
+japanese encephalitis,mosquito,virus,N,decision trees,diagnostic,japanese encephalitis AND decision trees AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,gradient boosting,surveillance,japanese encephalitis AND gradient boosting AND surveillance,0
+japanese encephalitis,mosquito,virus,N,gradient boosting,forecast,japanese encephalitis AND gradient boosting AND forecast,0
+japanese encephalitis,mosquito,virus,N,gradient boosting,early warning system,japanese encephalitis AND gradient boosting AND early warning system,0
+japanese encephalitis,mosquito,virus,N,gradient boosting,diagnostic,japanese encephalitis AND gradient boosting AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,natural language processing,surveillance,japanese encephalitis AND natural language processing AND surveillance,0
+japanese encephalitis,mosquito,virus,N,natural language processing,forecast,japanese encephalitis AND natural language processing AND forecast,0
+japanese encephalitis,mosquito,virus,N,natural language processing,early warning system,japanese encephalitis AND natural language processing AND early warning system,0
+japanese encephalitis,mosquito,virus,N,natural language processing,diagnostic,japanese encephalitis AND natural language processing AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,sentiment analysis,surveillance,japanese encephalitis AND sentiment analysis AND surveillance,0
+japanese encephalitis,mosquito,virus,N,sentiment analysis,forecast,japanese encephalitis AND sentiment analysis AND forecast,0
+japanese encephalitis,mosquito,virus,N,sentiment analysis,early warning system,japanese encephalitis AND sentiment analysis AND early warning system,0
+japanese encephalitis,mosquito,virus,N,sentiment analysis,diagnostic,japanese encephalitis AND sentiment analysis AND diagnostic,0
+japanese encephalitis,mosquito,virus,N,fuzzy logic,surveillance,japanese encephalitis AND fuzzy logic AND surveillance,0
+japanese encephalitis,mosquito,virus,N,fuzzy logic,forecast,japanese encephalitis AND fuzzy logic AND forecast,0
+japanese encephalitis,mosquito,virus,N,fuzzy logic,early warning system,japanese encephalitis AND fuzzy logic AND early warning system,0
+japanese encephalitis,mosquito,virus,N,fuzzy logic,diagnostic,japanese encephalitis AND fuzzy logic AND diagnostic,0
+west nile fever,mosquito,virus,N,deep learning,surveillance,west nile fever AND deep learning AND surveillance,0
+west nile fever,mosquito,virus,N,deep learning,forecast,west nile fever AND deep learning AND forecast,0
+west nile fever,mosquito,virus,N,deep learning,early warning system,west nile fever AND deep learning AND early warning system,0
+west nile fever,mosquito,virus,N,deep learning,diagnostic,west nile fever AND deep learning AND diagnostic,0
+west nile fever,mosquito,virus,N,machine learning,surveillance,west nile fever AND machine learning AND surveillance,10
+west nile fever,mosquito,virus,N,machine learning,forecast,west nile fever AND machine learning AND forecast,1
+west nile fever,mosquito,virus,N,machine learning,early warning system,west nile fever AND machine learning AND early warning system,0
+west nile fever,mosquito,virus,N,machine learning,diagnostic,west nile fever AND machine learning AND diagnostic,3
+west nile fever,mosquito,virus,N,k-means clustering,surveillance,west nile fever AND k-means clustering AND surveillance,0
+west nile fever,mosquito,virus,N,k-means clustering,forecast,west nile fever AND k-means clustering AND forecast,0
+west nile fever,mosquito,virus,N,k-means clustering,early warning system,west nile fever AND k-means clustering AND early warning system,0
+west nile fever,mosquito,virus,N,k-means clustering,diagnostic,west nile fever AND k-means clustering AND diagnostic,0
+west nile fever,mosquito,virus,N,logistic regression,surveillance,west nile fever AND logistic regression AND surveillance,59
+west nile fever,mosquito,virus,N,logistic regression,forecast,west nile fever AND logistic regression AND forecast,4
+west nile fever,mosquito,virus,N,logistic regression,early warning system,west nile fever AND logistic regression AND early warning system,1
+west nile fever,mosquito,virus,N,logistic regression,diagnostic,west nile fever AND logistic regression AND diagnostic,21
+west nile fever,mosquito,virus,N,support vector machine,surveillance,west nile fever AND support vector machine AND surveillance,6
+west nile fever,mosquito,virus,N,support vector machine,forecast,west nile fever AND support vector machine AND forecast,0
+west nile fever,mosquito,virus,N,support vector machine,early warning system,west nile fever AND support vector machine AND early warning system,0
+west nile fever,mosquito,virus,N,support vector machine,diagnostic,west nile fever AND support vector machine AND diagnostic,0
+west nile fever,mosquito,virus,N,text mining,surveillance,west nile fever AND text mining AND surveillance,3
+west nile fever,mosquito,virus,N,text mining,forecast,west nile fever AND text mining AND forecast,0
+west nile fever,mosquito,virus,N,text mining,early warning system,west nile fever AND text mining AND early warning system,0
+west nile fever,mosquito,virus,N,text mining,diagnostic,west nile fever AND text mining AND diagnostic,2
+west nile fever,mosquito,virus,N,artificial neural networks,surveillance,west nile fever AND artificial neural networks AND surveillance,0
+west nile fever,mosquito,virus,N,artificial neural networks,forecast,west nile fever AND artificial neural networks AND forecast,0
+west nile fever,mosquito,virus,N,artificial neural networks,early warning system,west nile fever AND artificial neural networks AND early warning system,0
+west nile fever,mosquito,virus,N,artificial neural networks,diagnostic,west nile fever AND artificial neural networks AND diagnostic,0
+west nile fever,mosquito,virus,N,expert system,surveillance,west nile fever AND expert system AND surveillance,4
+west nile fever,mosquito,virus,N,expert system,forecast,west nile fever AND expert system AND forecast,1
+west nile fever,mosquito,virus,N,expert system,early warning system,west nile fever AND expert system AND early warning system,0
+west nile fever,mosquito,virus,N,expert system,diagnostic,west nile fever AND expert system AND diagnostic,3
+west nile fever,mosquito,virus,N,random forest,surveillance,west nile fever AND random forest AND surveillance,7
+west nile fever,mosquito,virus,N,random forest,forecast,west nile fever AND random forest AND forecast,1
+west nile fever,mosquito,virus,N,random forest,early warning system,west nile fever AND random forest AND early warning system,0
+west nile fever,mosquito,virus,N,random forest,diagnostic,west nile fever AND random forest AND diagnostic,1
+west nile fever,mosquito,virus,N,decision trees,surveillance,west nile fever AND decision trees AND surveillance,5
+west nile fever,mosquito,virus,N,decision trees,forecast,west nile fever AND decision trees AND forecast,1
+west nile fever,mosquito,virus,N,decision trees,early warning system,west nile fever AND decision trees AND early warning system,0
+west nile fever,mosquito,virus,N,decision trees,diagnostic,west nile fever AND decision trees AND diagnostic,2
+west nile fever,mosquito,virus,N,gradient boosting,surveillance,west nile fever AND gradient boosting AND surveillance,1
+west nile fever,mosquito,virus,N,gradient boosting,forecast,west nile fever AND gradient boosting AND forecast,0
+west nile fever,mosquito,virus,N,gradient boosting,early warning system,west nile fever AND gradient boosting AND early warning system,0
+west nile fever,mosquito,virus,N,gradient boosting,diagnostic,west nile fever AND gradient boosting AND diagnostic,0
+west nile fever,mosquito,virus,N,natural language processing,surveillance,west nile fever AND natural language processing AND surveillance,0
+west nile fever,mosquito,virus,N,natural language processing,forecast,west nile fever AND natural language processing AND forecast,0
+west nile fever,mosquito,virus,N,natural language processing,early warning system,west nile fever AND natural language processing AND early warning system,0
+west nile fever,mosquito,virus,N,natural language processing,diagnostic,west nile fever AND natural language processing AND diagnostic,0
+west nile fever,mosquito,virus,N,sentiment analysis,surveillance,west nile fever AND sentiment analysis AND surveillance,1
+west nile fever,mosquito,virus,N,sentiment analysis,forecast,west nile fever AND sentiment analysis AND forecast,0
+west nile fever,mosquito,virus,N,sentiment analysis,early warning system,west nile fever AND sentiment analysis AND early warning system,0
+west nile fever,mosquito,virus,N,sentiment analysis,diagnostic,west nile fever AND sentiment analysis AND diagnostic,0
+west nile fever,mosquito,virus,N,fuzzy logic,surveillance,west nile fever AND fuzzy logic AND surveillance,1
+west nile fever,mosquito,virus,N,fuzzy logic,forecast,west nile fever AND fuzzy logic AND forecast,0
+west nile fever,mosquito,virus,N,fuzzy logic,early warning system,west nile fever AND fuzzy logic AND early warning system,0
+west nile fever,mosquito,virus,N,fuzzy logic,diagnostic,west nile fever AND fuzzy logic AND diagnostic,1
+Schistosomiasis,aquatic snail,parasite,Y,deep learning,surveillance,Schistosomiasis AND deep learning AND surveillance,3
+Schistosomiasis,aquatic snail,parasite,Y,deep learning,forecast,Schistosomiasis AND deep learning AND forecast,1
+Schistosomiasis,aquatic snail,parasite,Y,deep learning,early warning system,Schistosomiasis AND deep learning AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,deep learning,diagnostic,Schistosomiasis AND deep learning AND diagnostic,5
+Schistosomiasis,aquatic snail,parasite,Y,machine learning,surveillance,Schistosomiasis AND machine learning AND surveillance,29
+Schistosomiasis,aquatic snail,parasite,Y,machine learning,forecast,Schistosomiasis AND machine learning AND forecast,5
+Schistosomiasis,aquatic snail,parasite,Y,machine learning,early warning system,Schistosomiasis AND machine learning AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,machine learning,diagnostic,Schistosomiasis AND machine learning AND diagnostic,18
+Schistosomiasis,aquatic snail,parasite,Y,k-means clustering,surveillance,Schistosomiasis AND k-means clustering AND surveillance,4
+Schistosomiasis,aquatic snail,parasite,Y,k-means clustering,forecast,Schistosomiasis AND k-means clustering AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,k-means clustering,early warning system,Schistosomiasis AND k-means clustering AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,k-means clustering,diagnostic,Schistosomiasis AND k-means clustering AND diagnostic,1
+Schistosomiasis,aquatic snail,parasite,Y,logistic regression,surveillance,Schistosomiasis AND logistic regression AND surveillance,250
+Schistosomiasis,aquatic snail,parasite,Y,logistic regression,forecast,Schistosomiasis AND logistic regression AND forecast,8
+Schistosomiasis,aquatic snail,parasite,Y,logistic regression,early warning system,Schistosomiasis AND logistic regression AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,logistic regression,diagnostic,Schistosomiasis AND logistic regression AND diagnostic,134
+Schistosomiasis,aquatic snail,parasite,Y,support vector machine,surveillance,Schistosomiasis AND support vector machine AND surveillance,6
+Schistosomiasis,aquatic snail,parasite,Y,support vector machine,forecast,Schistosomiasis AND support vector machine AND forecast,2
+Schistosomiasis,aquatic snail,parasite,Y,support vector machine,early warning system,Schistosomiasis AND support vector machine AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,support vector machine,diagnostic,Schistosomiasis AND support vector machine AND diagnostic,8
+Schistosomiasis,aquatic snail,parasite,Y,text mining,surveillance,Schistosomiasis AND text mining AND surveillance,5
+Schistosomiasis,aquatic snail,parasite,Y,text mining,forecast,Schistosomiasis AND text mining AND forecast,1
+Schistosomiasis,aquatic snail,parasite,Y,text mining,early warning system,Schistosomiasis AND text mining AND early warning system,2
+Schistosomiasis,aquatic snail,parasite,Y,text mining,diagnostic,Schistosomiasis AND text mining AND diagnostic,2
+Schistosomiasis,aquatic snail,parasite,Y,artificial neural networks,surveillance,Schistosomiasis AND artificial neural networks AND surveillance,4
+Schistosomiasis,aquatic snail,parasite,Y,artificial neural networks,forecast,Schistosomiasis AND artificial neural networks AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,artificial neural networks,early warning system,Schistosomiasis AND artificial neural networks AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,artificial neural networks,diagnostic,Schistosomiasis AND artificial neural networks AND diagnostic,2
+Schistosomiasis,aquatic snail,parasite,Y,expert system,surveillance,Schistosomiasis AND expert system AND surveillance,15
+Schistosomiasis,aquatic snail,parasite,Y,expert system,forecast,Schistosomiasis AND expert system AND forecast,2
+Schistosomiasis,aquatic snail,parasite,Y,expert system,early warning system,Schistosomiasis AND expert system AND early warning system,1
+Schistosomiasis,aquatic snail,parasite,Y,expert system,diagnostic,Schistosomiasis AND expert system AND diagnostic,9
+Schistosomiasis,aquatic snail,parasite,Y,random forest,surveillance,Schistosomiasis AND random forest AND surveillance,18
+Schistosomiasis,aquatic snail,parasite,Y,random forest,forecast,Schistosomiasis AND random forest AND forecast,1
+Schistosomiasis,aquatic snail,parasite,Y,random forest,early warning system,Schistosomiasis AND random forest AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,random forest,diagnostic,Schistosomiasis AND random forest AND diagnostic,8
+Schistosomiasis,aquatic snail,parasite,Y,decision trees,surveillance,Schistosomiasis AND decision trees AND surveillance,7
+Schistosomiasis,aquatic snail,parasite,Y,decision trees,forecast,Schistosomiasis AND decision trees AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,decision trees,early warning system,Schistosomiasis AND decision trees AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,decision trees,diagnostic,Schistosomiasis AND decision trees AND diagnostic,3
+Schistosomiasis,aquatic snail,parasite,Y,gradient boosting,surveillance,Schistosomiasis AND gradient boosting AND surveillance,5
+Schistosomiasis,aquatic snail,parasite,Y,gradient boosting,forecast,Schistosomiasis AND gradient boosting AND forecast,1
+Schistosomiasis,aquatic snail,parasite,Y,gradient boosting,early warning system,Schistosomiasis AND gradient boosting AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,gradient boosting,diagnostic,Schistosomiasis AND gradient boosting AND diagnostic,3
+Schistosomiasis,aquatic snail,parasite,Y,natural language processing,surveillance,Schistosomiasis AND natural language processing AND surveillance,1
+Schistosomiasis,aquatic snail,parasite,Y,natural language processing,forecast,Schistosomiasis AND natural language processing AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,natural language processing,early warning system,Schistosomiasis AND natural language processing AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,natural language processing,diagnostic,Schistosomiasis AND natural language processing AND diagnostic,1
+Schistosomiasis,aquatic snail,parasite,Y,sentiment analysis,surveillance,Schistosomiasis AND sentiment analysis AND surveillance,0
+Schistosomiasis,aquatic snail,parasite,Y,sentiment analysis,forecast,Schistosomiasis AND sentiment analysis AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,sentiment analysis,early warning system,Schistosomiasis AND sentiment analysis AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,sentiment analysis,diagnostic,Schistosomiasis AND sentiment analysis AND diagnostic,0
+Schistosomiasis,aquatic snail,parasite,Y,fuzzy logic,surveillance,Schistosomiasis AND fuzzy logic AND surveillance,0
+Schistosomiasis,aquatic snail,parasite,Y,fuzzy logic,forecast,Schistosomiasis AND fuzzy logic AND forecast,0
+Schistosomiasis,aquatic snail,parasite,Y,fuzzy logic,early warning system,Schistosomiasis AND fuzzy logic AND early warning system,0
+Schistosomiasis,aquatic snail,parasite,Y,fuzzy logic,diagnostic,Schistosomiasis AND fuzzy logic AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,deep learning,surveillance,onchocerciasis AND deep learning AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,deep learning,forecast,onchocerciasis AND deep learning AND forecast,0
+onchocerciasis,blackfly,parasite,Y,deep learning,early warning system,onchocerciasis AND deep learning AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,deep learning,diagnostic,onchocerciasis AND deep learning AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,machine learning,surveillance,onchocerciasis AND machine learning AND surveillance,3
+onchocerciasis,blackfly,parasite,Y,machine learning,forecast,onchocerciasis AND machine learning AND forecast,0
+onchocerciasis,blackfly,parasite,Y,machine learning,early warning system,onchocerciasis AND machine learning AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,machine learning,diagnostic,onchocerciasis AND machine learning AND diagnostic,2
+onchocerciasis,blackfly,parasite,Y,k-means clustering,surveillance,onchocerciasis AND k-means clustering AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,k-means clustering,forecast,onchocerciasis AND k-means clustering AND forecast,0
+onchocerciasis,blackfly,parasite,Y,k-means clustering,early warning system,onchocerciasis AND k-means clustering AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,k-means clustering,diagnostic,onchocerciasis AND k-means clustering AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,logistic regression,surveillance,onchocerciasis AND logistic regression AND surveillance,38
+onchocerciasis,blackfly,parasite,Y,logistic regression,forecast,onchocerciasis AND logistic regression AND forecast,1
+onchocerciasis,blackfly,parasite,Y,logistic regression,early warning system,onchocerciasis AND logistic regression AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,logistic regression,diagnostic,onchocerciasis AND logistic regression AND diagnostic,16
+onchocerciasis,blackfly,parasite,Y,support vector machine,surveillance,onchocerciasis AND support vector machine AND surveillance,1
+onchocerciasis,blackfly,parasite,Y,support vector machine,forecast,onchocerciasis AND support vector machine AND forecast,0
+onchocerciasis,blackfly,parasite,Y,support vector machine,early warning system,onchocerciasis AND support vector machine AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,support vector machine,diagnostic,onchocerciasis AND support vector machine AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,text mining,surveillance,onchocerciasis AND text mining AND surveillance,3
+onchocerciasis,blackfly,parasite,Y,text mining,forecast,onchocerciasis AND text mining AND forecast,0
+onchocerciasis,blackfly,parasite,Y,text mining,early warning system,onchocerciasis AND text mining AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,text mining,diagnostic,onchocerciasis AND text mining AND diagnostic,1
+onchocerciasis,blackfly,parasite,Y,artificial neural networks,surveillance,onchocerciasis AND artificial neural networks AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,artificial neural networks,forecast,onchocerciasis AND artificial neural networks AND forecast,0
+onchocerciasis,blackfly,parasite,Y,artificial neural networks,early warning system,onchocerciasis AND artificial neural networks AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,artificial neural networks,diagnostic,onchocerciasis AND artificial neural networks AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,expert system,surveillance,onchocerciasis AND expert system AND surveillance,2
+onchocerciasis,blackfly,parasite,Y,expert system,forecast,onchocerciasis AND expert system AND forecast,1
+onchocerciasis,blackfly,parasite,Y,expert system,early warning system,onchocerciasis AND expert system AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,expert system,diagnostic,onchocerciasis AND expert system AND diagnostic,1
+onchocerciasis,blackfly,parasite,Y,random forest,surveillance,onchocerciasis AND random forest AND surveillance,1
+onchocerciasis,blackfly,parasite,Y,random forest,forecast,onchocerciasis AND random forest AND forecast,0
+onchocerciasis,blackfly,parasite,Y,random forest,early warning system,onchocerciasis AND random forest AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,random forest,diagnostic,onchocerciasis AND random forest AND diagnostic,1
+onchocerciasis,blackfly,parasite,Y,decision trees,surveillance,onchocerciasis AND decision trees AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,decision trees,forecast,onchocerciasis AND decision trees AND forecast,0
+onchocerciasis,blackfly,parasite,Y,decision trees,early warning system,onchocerciasis AND decision trees AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,decision trees,diagnostic,onchocerciasis AND decision trees AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,gradient boosting,surveillance,onchocerciasis AND gradient boosting AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,gradient boosting,forecast,onchocerciasis AND gradient boosting AND forecast,0
+onchocerciasis,blackfly,parasite,Y,gradient boosting,early warning system,onchocerciasis AND gradient boosting AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,gradient boosting,diagnostic,onchocerciasis AND gradient boosting AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,natural language processing,surveillance,onchocerciasis AND natural language processing AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,natural language processing,forecast,onchocerciasis AND natural language processing AND forecast,0
+onchocerciasis,blackfly,parasite,Y,natural language processing,early warning system,onchocerciasis AND natural language processing AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,natural language processing,diagnostic,onchocerciasis AND natural language processing AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,sentiment analysis,surveillance,onchocerciasis AND sentiment analysis AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,sentiment analysis,forecast,onchocerciasis AND sentiment analysis AND forecast,0
+onchocerciasis,blackfly,parasite,Y,sentiment analysis,early warning system,onchocerciasis AND sentiment analysis AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,sentiment analysis,diagnostic,onchocerciasis AND sentiment analysis AND diagnostic,0
+onchocerciasis,blackfly,parasite,Y,fuzzy logic,surveillance,onchocerciasis AND fuzzy logic AND surveillance,0
+onchocerciasis,blackfly,parasite,Y,fuzzy logic,forecast,onchocerciasis AND fuzzy logic AND forecast,0
+onchocerciasis,blackfly,parasite,Y,fuzzy logic,early warning system,onchocerciasis AND fuzzy logic AND early warning system,0
+onchocerciasis,blackfly,parasite,Y,fuzzy logic,diagnostic,onchocerciasis AND fuzzy logic AND diagnostic,0
+plague,fleas,bacteria,N,deep learning,surveillance,plague AND deep learning AND surveillance,0
+plague,fleas,bacteria,N,deep learning,forecast,plague AND deep learning AND forecast,2
+plague,fleas,bacteria,N,deep learning,early warning system,plague AND deep learning AND early warning system,0
+plague,fleas,bacteria,N,deep learning,diagnostic,plague AND deep learning AND diagnostic,9
+plague,fleas,bacteria,N,machine learning,surveillance,plague AND machine learning AND surveillance,9
+plague,fleas,bacteria,N,machine learning,forecast,plague AND machine learning AND forecast,9
+plague,fleas,bacteria,N,machine learning,early warning system,plague AND machine learning AND early warning system,1
+plague,fleas,bacteria,N,machine learning,diagnostic,plague AND machine learning AND diagnostic,13
+plague,fleas,bacteria,N,k-means clustering,surveillance,plague AND k-means clustering AND surveillance,0
+plague,fleas,bacteria,N,k-means clustering,forecast,plague AND k-means clustering AND forecast,0
+plague,fleas,bacteria,N,k-means clustering,early warning system,plague AND k-means clustering AND early warning system,0
+plague,fleas,bacteria,N,k-means clustering,diagnostic,plague AND k-means clustering AND diagnostic,0
+plague,fleas,bacteria,N,logistic regression,surveillance,plague AND logistic regression AND surveillance,37
+plague,fleas,bacteria,N,logistic regression,forecast,plague AND logistic regression AND forecast,5
+plague,fleas,bacteria,N,logistic regression,early warning system,plague AND logistic regression AND early warning system,0
+plague,fleas,bacteria,N,logistic regression,diagnostic,plague AND logistic regression AND diagnostic,19
+plague,fleas,bacteria,N,support vector machine,surveillance,plague AND support vector machine AND surveillance,1
+plague,fleas,bacteria,N,support vector machine,forecast,plague AND support vector machine AND forecast,2
+plague,fleas,bacteria,N,support vector machine,early warning system,plague AND support vector machine AND early warning system,1
+plague,fleas,bacteria,N,support vector machine,diagnostic,plague AND support vector machine AND diagnostic,2
+plague,fleas,bacteria,N,text mining,surveillance,plague AND text mining AND surveillance,5
+plague,fleas,bacteria,N,text mining,forecast,plague AND text mining AND forecast,1
+plague,fleas,bacteria,N,text mining,early warning system,plague AND text mining AND early warning system,0
+plague,fleas,bacteria,N,text mining,diagnostic,plague AND text mining AND diagnostic,0
+plague,fleas,bacteria,N,artificial neural networks,surveillance,plague AND artificial neural networks AND surveillance,0
+plague,fleas,bacteria,N,artificial neural networks,forecast,plague AND artificial neural networks AND forecast,0
+plague,fleas,bacteria,N,artificial neural networks,early warning system,plague AND artificial neural networks AND early warning system,0
+plague,fleas,bacteria,N,artificial neural networks,diagnostic,plague AND artificial neural networks AND diagnostic,3
+plague,fleas,bacteria,N,expert system,surveillance,plague AND expert system AND surveillance,3
+plague,fleas,bacteria,N,expert system,forecast,plague AND expert system AND forecast,0
+plague,fleas,bacteria,N,expert system,early warning system,plague AND expert system AND early warning system,0
+plague,fleas,bacteria,N,expert system,diagnostic,plague AND expert system AND diagnostic,3
+plague,fleas,bacteria,N,random forest,surveillance,plague AND random forest AND surveillance,1
+plague,fleas,bacteria,N,random forest,forecast,plague AND random forest AND forecast,1
+plague,fleas,bacteria,N,random forest,early warning system,plague AND random forest AND early warning system,0
+plague,fleas,bacteria,N,random forest,diagnostic,plague AND random forest AND diagnostic,0
+plague,fleas,bacteria,N,decision trees,surveillance,plague AND decision trees AND surveillance,1
+plague,fleas,bacteria,N,decision trees,forecast,plague AND decision trees AND forecast,0
+plague,fleas,bacteria,N,decision trees,early warning system,plague AND decision trees AND early warning system,0
+plague,fleas,bacteria,N,decision trees,diagnostic,plague AND decision trees AND diagnostic,1
+plague,fleas,bacteria,N,gradient boosting,surveillance,plague AND gradient boosting AND surveillance,0
+plague,fleas,bacteria,N,gradient boosting,forecast,plague AND gradient boosting AND forecast,0
+plague,fleas,bacteria,N,gradient boosting,early warning system,plague AND gradient boosting AND early warning system,0
+plague,fleas,bacteria,N,gradient boosting,diagnostic,plague AND gradient boosting AND diagnostic,0
+plague,fleas,bacteria,N,natural language processing,surveillance,plague AND natural language processing AND surveillance,1
+plague,fleas,bacteria,N,natural language processing,forecast,plague AND natural language processing AND forecast,1
+plague,fleas,bacteria,N,natural language processing,early warning system,plague AND natural language processing AND early warning system,0
+plague,fleas,bacteria,N,natural language processing,diagnostic,plague AND natural language processing AND diagnostic,1
+plague,fleas,bacteria,N,sentiment analysis,surveillance,plague AND sentiment analysis AND surveillance,0
+plague,fleas,bacteria,N,sentiment analysis,forecast,plague AND sentiment analysis AND forecast,0
+plague,fleas,bacteria,N,sentiment analysis,early warning system,plague AND sentiment analysis AND early warning system,0
+plague,fleas,bacteria,N,sentiment analysis,diagnostic,plague AND sentiment analysis AND diagnostic,0
+plague,fleas,bacteria,N,fuzzy logic,surveillance,plague AND fuzzy logic AND surveillance,0
+plague,fleas,bacteria,N,fuzzy logic,forecast,plague AND fuzzy logic AND forecast,1
+plague,fleas,bacteria,N,fuzzy logic,early warning system,plague AND fuzzy logic AND early warning system,0
+plague,fleas,bacteria,N,fuzzy logic,diagnostic,plague AND fuzzy logic AND diagnostic,1
+tungiasis,fleas,ectoparasite,N,deep learning,surveillance,tungiasis AND deep learning AND surveillance,0
+tungiasis,fleas,ectoparasite,N,deep learning,forecast,tungiasis AND deep learning AND forecast,0
+tungiasis,fleas,ectoparasite,N,deep learning,early warning system,tungiasis AND deep learning AND early warning system,0
+tungiasis,fleas,ectoparasite,N,deep learning,diagnostic,tungiasis AND deep learning AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,machine learning,surveillance,tungiasis AND machine learning AND surveillance,0
+tungiasis,fleas,ectoparasite,N,machine learning,forecast,tungiasis AND machine learning AND forecast,0
+tungiasis,fleas,ectoparasite,N,machine learning,early warning system,tungiasis AND machine learning AND early warning system,0
+tungiasis,fleas,ectoparasite,N,machine learning,diagnostic,tungiasis AND machine learning AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,k-means clustering,surveillance,tungiasis AND k-means clustering AND surveillance,0
+tungiasis,fleas,ectoparasite,N,k-means clustering,forecast,tungiasis AND k-means clustering AND forecast,0
+tungiasis,fleas,ectoparasite,N,k-means clustering,early warning system,tungiasis AND k-means clustering AND early warning system,0
+tungiasis,fleas,ectoparasite,N,k-means clustering,diagnostic,tungiasis AND k-means clustering AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,logistic regression,surveillance,tungiasis AND logistic regression AND surveillance,8
+tungiasis,fleas,ectoparasite,N,logistic regression,forecast,tungiasis AND logistic regression AND forecast,0
+tungiasis,fleas,ectoparasite,N,logistic regression,early warning system,tungiasis AND logistic regression AND early warning system,0
+tungiasis,fleas,ectoparasite,N,logistic regression,diagnostic,tungiasis AND logistic regression AND diagnostic,1
+tungiasis,fleas,ectoparasite,N,support vector machine,surveillance,tungiasis AND support vector machine AND surveillance,0
+tungiasis,fleas,ectoparasite,N,support vector machine,forecast,tungiasis AND support vector machine AND forecast,0
+tungiasis,fleas,ectoparasite,N,support vector machine,early warning system,tungiasis AND support vector machine AND early warning system,0
+tungiasis,fleas,ectoparasite,N,support vector machine,diagnostic,tungiasis AND support vector machine AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,text mining,surveillance,tungiasis AND text mining AND surveillance,0
+tungiasis,fleas,ectoparasite,N,text mining,forecast,tungiasis AND text mining AND forecast,0
+tungiasis,fleas,ectoparasite,N,text mining,early warning system,tungiasis AND text mining AND early warning system,0
+tungiasis,fleas,ectoparasite,N,text mining,diagnostic,tungiasis AND text mining AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,artificial neural networks,surveillance,tungiasis AND artificial neural networks AND surveillance,0
+tungiasis,fleas,ectoparasite,N,artificial neural networks,forecast,tungiasis AND artificial neural networks AND forecast,0
+tungiasis,fleas,ectoparasite,N,artificial neural networks,early warning system,tungiasis AND artificial neural networks AND early warning system,0
+tungiasis,fleas,ectoparasite,N,artificial neural networks,diagnostic,tungiasis AND artificial neural networks AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,expert system,surveillance,tungiasis AND expert system AND surveillance,0
+tungiasis,fleas,ectoparasite,N,expert system,forecast,tungiasis AND expert system AND forecast,0
+tungiasis,fleas,ectoparasite,N,expert system,early warning system,tungiasis AND expert system AND early warning system,0
+tungiasis,fleas,ectoparasite,N,expert system,diagnostic,tungiasis AND expert system AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,random forest,surveillance,tungiasis AND random forest AND surveillance,0
+tungiasis,fleas,ectoparasite,N,random forest,forecast,tungiasis AND random forest AND forecast,0
+tungiasis,fleas,ectoparasite,N,random forest,early warning system,tungiasis AND random forest AND early warning system,0
+tungiasis,fleas,ectoparasite,N,random forest,diagnostic,tungiasis AND random forest AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,decision trees,surveillance,tungiasis AND decision trees AND surveillance,0
+tungiasis,fleas,ectoparasite,N,decision trees,forecast,tungiasis AND decision trees AND forecast,0
+tungiasis,fleas,ectoparasite,N,decision trees,early warning system,tungiasis AND decision trees AND early warning system,0
+tungiasis,fleas,ectoparasite,N,decision trees,diagnostic,tungiasis AND decision trees AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,gradient boosting,surveillance,tungiasis AND gradient boosting AND surveillance,0
+tungiasis,fleas,ectoparasite,N,gradient boosting,forecast,tungiasis AND gradient boosting AND forecast,0
+tungiasis,fleas,ectoparasite,N,gradient boosting,early warning system,tungiasis AND gradient boosting AND early warning system,0
+tungiasis,fleas,ectoparasite,N,gradient boosting,diagnostic,tungiasis AND gradient boosting AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,natural language processing,surveillance,tungiasis AND natural language processing AND surveillance,0
+tungiasis,fleas,ectoparasite,N,natural language processing,forecast,tungiasis AND natural language processing AND forecast,0
+tungiasis,fleas,ectoparasite,N,natural language processing,early warning system,tungiasis AND natural language processing AND early warning system,0
+tungiasis,fleas,ectoparasite,N,natural language processing,diagnostic,tungiasis AND natural language processing AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,sentiment analysis,surveillance,tungiasis AND sentiment analysis AND surveillance,0
+tungiasis,fleas,ectoparasite,N,sentiment analysis,forecast,tungiasis AND sentiment analysis AND forecast,0
+tungiasis,fleas,ectoparasite,N,sentiment analysis,early warning system,tungiasis AND sentiment analysis AND early warning system,0
+tungiasis,fleas,ectoparasite,N,sentiment analysis,diagnostic,tungiasis AND sentiment analysis AND diagnostic,0
+tungiasis,fleas,ectoparasite,N,fuzzy logic,surveillance,tungiasis AND fuzzy logic AND surveillance,0
+tungiasis,fleas,ectoparasite,N,fuzzy logic,forecast,tungiasis AND fuzzy logic AND forecast,0
+tungiasis,fleas,ectoparasite,N,fuzzy logic,early warning system,tungiasis AND fuzzy logic AND early warning system,0
+tungiasis,fleas,ectoparasite,N,fuzzy logic,diagnostic,tungiasis AND fuzzy logic AND diagnostic,0
+typhus,Lice,bacteria,N,deep learning,surveillance,typhus AND deep learning AND surveillance,0
+typhus,Lice,bacteria,N,deep learning,forecast,typhus AND deep learning AND forecast,0
+typhus,Lice,bacteria,N,deep learning,early warning system,typhus AND deep learning AND early warning system,0
+typhus,Lice,bacteria,N,deep learning,diagnostic,typhus AND deep learning AND diagnostic,0
+typhus,Lice,bacteria,N,machine learning,surveillance,typhus AND machine learning AND surveillance,2
+typhus,Lice,bacteria,N,machine learning,forecast,typhus AND machine learning AND forecast,0
+typhus,Lice,bacteria,N,machine learning,early warning system,typhus AND machine learning AND early warning system,0
+typhus,Lice,bacteria,N,machine learning,diagnostic,typhus AND machine learning AND diagnostic,1
+typhus,Lice,bacteria,N,k-means clustering,surveillance,typhus AND k-means clustering AND surveillance,0
+typhus,Lice,bacteria,N,k-means clustering,forecast,typhus AND k-means clustering AND forecast,0
+typhus,Lice,bacteria,N,k-means clustering,early warning system,typhus AND k-means clustering AND early warning system,0
+typhus,Lice,bacteria,N,k-means clustering,diagnostic,typhus AND k-means clustering AND diagnostic,0
+typhus,Lice,bacteria,N,logistic regression,surveillance,typhus AND logistic regression AND surveillance,44
+typhus,Lice,bacteria,N,logistic regression,forecast,typhus AND logistic regression AND forecast,3
+typhus,Lice,bacteria,N,logistic regression,early warning system,typhus AND logistic regression AND early warning system,0
+typhus,Lice,bacteria,N,logistic regression,diagnostic,typhus AND logistic regression AND diagnostic,39
+typhus,Lice,bacteria,N,support vector machine,surveillance,typhus AND support vector machine AND surveillance,1
+typhus,Lice,bacteria,N,support vector machine,forecast,typhus AND support vector machine AND forecast,1
+typhus,Lice,bacteria,N,support vector machine,early warning system,typhus AND support vector machine AND early warning system,0
+typhus,Lice,bacteria,N,support vector machine,diagnostic,typhus AND support vector machine AND diagnostic,0
+typhus,Lice,bacteria,N,text mining,surveillance,typhus AND text mining AND surveillance,1
+typhus,Lice,bacteria,N,text mining,forecast,typhus AND text mining AND forecast,0
+typhus,Lice,bacteria,N,text mining,early warning system,typhus AND text mining AND early warning system,0
+typhus,Lice,bacteria,N,text mining,diagnostic,typhus AND text mining AND diagnostic,0
+typhus,Lice,bacteria,N,artificial neural networks,surveillance,typhus AND artificial neural networks AND surveillance,0
+typhus,Lice,bacteria,N,artificial neural networks,forecast,typhus AND artificial neural networks AND forecast,0
+typhus,Lice,bacteria,N,artificial neural networks,early warning system,typhus AND artificial neural networks AND early warning system,0
+typhus,Lice,bacteria,N,artificial neural networks,diagnostic,typhus AND artificial neural networks AND diagnostic,0
+typhus,Lice,bacteria,N,expert system,surveillance,typhus AND expert system AND surveillance,0
+typhus,Lice,bacteria,N,expert system,forecast,typhus AND expert system AND forecast,0
+typhus,Lice,bacteria,N,expert system,early warning system,typhus AND expert system AND early warning system,0
+typhus,Lice,bacteria,N,expert system,diagnostic,typhus AND expert system AND diagnostic,2
+typhus,Lice,bacteria,N,random forest,surveillance,typhus AND random forest AND surveillance,3
+typhus,Lice,bacteria,N,random forest,forecast,typhus AND random forest AND forecast,0
+typhus,Lice,bacteria,N,random forest,early warning system,typhus AND random forest AND early warning system,0
+typhus,Lice,bacteria,N,random forest,diagnostic,typhus AND random forest AND diagnostic,1
+typhus,Lice,bacteria,N,decision trees,surveillance,typhus AND decision trees AND surveillance,2
+typhus,Lice,bacteria,N,decision trees,forecast,typhus AND decision trees AND forecast,0
+typhus,Lice,bacteria,N,decision trees,early warning system,typhus AND decision trees AND early warning system,0
+typhus,Lice,bacteria,N,decision trees,diagnostic,typhus AND decision trees AND diagnostic,1
+typhus,Lice,bacteria,N,gradient boosting,surveillance,typhus AND gradient boosting AND surveillance,0
+typhus,Lice,bacteria,N,gradient boosting,forecast,typhus AND gradient boosting AND forecast,0
+typhus,Lice,bacteria,N,gradient boosting,early warning system,typhus AND gradient boosting AND early warning system,0
+typhus,Lice,bacteria,N,gradient boosting,diagnostic,typhus AND gradient boosting AND diagnostic,0
+typhus,Lice,bacteria,N,natural language processing,surveillance,typhus AND natural language processing AND surveillance,0
+typhus,Lice,bacteria,N,natural language processing,forecast,typhus AND natural language processing AND forecast,0
+typhus,Lice,bacteria,N,natural language processing,early warning system,typhus AND natural language processing AND early warning system,0
+typhus,Lice,bacteria,N,natural language processing,diagnostic,typhus AND natural language processing AND diagnostic,0
+typhus,Lice,bacteria,N,sentiment analysis,surveillance,typhus AND sentiment analysis AND surveillance,0
+typhus,Lice,bacteria,N,sentiment analysis,forecast,typhus AND sentiment analysis AND forecast,0
+typhus,Lice,bacteria,N,sentiment analysis,early warning system,typhus AND sentiment analysis AND early warning system,0
+typhus,Lice,bacteria,N,sentiment analysis,diagnostic,typhus AND sentiment analysis AND diagnostic,0
+typhus,Lice,bacteria,N,fuzzy logic,surveillance,typhus AND fuzzy logic AND surveillance,0
+typhus,Lice,bacteria,N,fuzzy logic,forecast,typhus AND fuzzy logic AND forecast,0
+typhus,Lice,bacteria,N,fuzzy logic,early warning system,typhus AND fuzzy logic AND early warning system,0
+typhus,Lice,bacteria,N,fuzzy logic,diagnostic,typhus AND fuzzy logic AND diagnostic,0
+leishmania,Sandfly,parasite,Y,deep learning,surveillance,leishmania AND deep learning AND surveillance,0
+leishmania,Sandfly,parasite,Y,deep learning,forecast,leishmania AND deep learning AND forecast,1
+leishmania,Sandfly,parasite,Y,deep learning,early warning system,leishmania AND deep learning AND early warning system,0
+leishmania,Sandfly,parasite,Y,deep learning,diagnostic,leishmania AND deep learning AND diagnostic,7
+leishmania,Sandfly,parasite,Y,machine learning,surveillance,leishmania AND machine learning AND surveillance,8
+leishmania,Sandfly,parasite,Y,machine learning,forecast,leishmania AND machine learning AND forecast,1
+leishmania,Sandfly,parasite,Y,machine learning,early warning system,leishmania AND machine learning AND early warning system,0
+leishmania,Sandfly,parasite,Y,machine learning,diagnostic,leishmania AND machine learning AND diagnostic,19
+leishmania,Sandfly,parasite,Y,k-means clustering,surveillance,leishmania AND k-means clustering AND surveillance,0
+leishmania,Sandfly,parasite,Y,k-means clustering,forecast,leishmania AND k-means clustering AND forecast,0
+leishmania,Sandfly,parasite,Y,k-means clustering,early warning system,leishmania AND k-means clustering AND early warning system,0
+leishmania,Sandfly,parasite,Y,k-means clustering,diagnostic,leishmania AND k-means clustering AND diagnostic,0
+leishmania,Sandfly,parasite,Y,logistic regression,surveillance,leishmania AND logistic regression AND surveillance,97
+leishmania,Sandfly,parasite,Y,logistic regression,forecast,leishmania AND logistic regression AND forecast,1
+leishmania,Sandfly,parasite,Y,logistic regression,early warning system,leishmania AND logistic regression AND early warning system,0
+leishmania,Sandfly,parasite,Y,logistic regression,diagnostic,leishmania AND logistic regression AND diagnostic,73
+leishmania,Sandfly,parasite,Y,support vector machine,surveillance,leishmania AND support vector machine AND surveillance,3
+leishmania,Sandfly,parasite,Y,support vector machine,forecast,leishmania AND support vector machine AND forecast,0
+leishmania,Sandfly,parasite,Y,support vector machine,early warning system,leishmania AND support vector machine AND early warning system,0
+leishmania,Sandfly,parasite,Y,support vector machine,diagnostic,leishmania AND support vector machine AND diagnostic,5
+leishmania,Sandfly,parasite,Y,text mining,surveillance,leishmania AND text mining AND surveillance,7
+leishmania,Sandfly,parasite,Y,text mining,forecast,leishmania AND text mining AND forecast,2
+leishmania,Sandfly,parasite,Y,text mining,early warning system,leishmania AND text mining AND early warning system,0
+leishmania,Sandfly,parasite,Y,text mining,diagnostic,leishmania AND text mining AND diagnostic,4
+leishmania,Sandfly,parasite,Y,artificial neural networks,surveillance,leishmania AND artificial neural networks AND surveillance,1
+leishmania,Sandfly,parasite,Y,artificial neural networks,forecast,leishmania AND artificial neural networks AND forecast,0
+leishmania,Sandfly,parasite,Y,artificial neural networks,early warning system,leishmania AND artificial neural networks AND early warning system,0
+leishmania,Sandfly,parasite,Y,artificial neural networks,diagnostic,leishmania AND artificial neural networks AND diagnostic,3
+leishmania,Sandfly,parasite,Y,expert system,surveillance,leishmania AND expert system AND surveillance,4
+leishmania,Sandfly,parasite,Y,expert system,forecast,leishmania AND expert system AND forecast,1
+leishmania,Sandfly,parasite,Y,expert system,early warning system,leishmania AND expert system AND early warning system,0
+leishmania,Sandfly,parasite,Y,expert system,diagnostic,leishmania AND expert system AND diagnostic,5
+leishmania,Sandfly,parasite,Y,random forest,surveillance,leishmania AND random forest AND surveillance,5
+leishmania,Sandfly,parasite,Y,random forest,forecast,leishmania AND random forest AND forecast,0
+leishmania,Sandfly,parasite,Y,random forest,early warning system,leishmania AND random forest AND early warning system,0
+leishmania,Sandfly,parasite,Y,random forest,diagnostic,leishmania AND random forest AND diagnostic,4
+leishmania,Sandfly,parasite,Y,decision trees,surveillance,leishmania AND decision trees AND surveillance,3
+leishmania,Sandfly,parasite,Y,decision trees,forecast,leishmania AND decision trees AND forecast,0
+leishmania,Sandfly,parasite,Y,decision trees,early warning system,leishmania AND decision trees AND early warning system,0
+leishmania,Sandfly,parasite,Y,decision trees,diagnostic,leishmania AND decision trees AND diagnostic,3
+leishmania,Sandfly,parasite,Y,gradient boosting,surveillance,leishmania AND gradient boosting AND surveillance,0
+leishmania,Sandfly,parasite,Y,gradient boosting,forecast,leishmania AND gradient boosting AND forecast,0
+leishmania,Sandfly,parasite,Y,gradient boosting,early warning system,leishmania AND gradient boosting AND early warning system,0
+leishmania,Sandfly,parasite,Y,gradient boosting,diagnostic,leishmania AND gradient boosting AND diagnostic,0
+leishmania,Sandfly,parasite,Y,natural language processing,surveillance,leishmania AND natural language processing AND surveillance,0
+leishmania,Sandfly,parasite,Y,natural language processing,forecast,leishmania AND natural language processing AND forecast,0
+leishmania,Sandfly,parasite,Y,natural language processing,early warning system,leishmania AND natural language processing AND early warning system,0
+leishmania,Sandfly,parasite,Y,natural language processing,diagnostic,leishmania AND natural language processing AND diagnostic,0
+leishmania,Sandfly,parasite,Y,sentiment analysis,surveillance,leishmania AND sentiment analysis AND surveillance,0
+leishmania,Sandfly,parasite,Y,sentiment analysis,forecast,leishmania AND sentiment analysis AND forecast,0
+leishmania,Sandfly,parasite,Y,sentiment analysis,early warning system,leishmania AND sentiment analysis AND early warning system,0
+leishmania,Sandfly,parasite,Y,sentiment analysis,diagnostic,leishmania AND sentiment analysis AND diagnostic,0
+leishmania,Sandfly,parasite,Y,fuzzy logic,surveillance,leishmania AND fuzzy logic AND surveillance,0
+leishmania,Sandfly,parasite,Y,fuzzy logic,forecast,leishmania AND fuzzy logic AND forecast,0
+leishmania,Sandfly,parasite,Y,fuzzy logic,early warning system,leishmania AND fuzzy logic AND early warning system,0
+leishmania,Sandfly,parasite,Y,fuzzy logic,diagnostic,leishmania AND fuzzy logic AND diagnostic,0
+sandfly fever,Sandfly,virus,N,deep learning,surveillance,sandfly fever AND deep learning AND surveillance,0
+sandfly fever,Sandfly,virus,N,deep learning,forecast,sandfly fever AND deep learning AND forecast,0
+sandfly fever,Sandfly,virus,N,deep learning,early warning system,sandfly fever AND deep learning AND early warning system,0
+sandfly fever,Sandfly,virus,N,deep learning,diagnostic,sandfly fever AND deep learning AND diagnostic,0
+sandfly fever,Sandfly,virus,N,machine learning,surveillance,sandfly fever AND machine learning AND surveillance,0
+sandfly fever,Sandfly,virus,N,machine learning,forecast,sandfly fever AND machine learning AND forecast,0
+sandfly fever,Sandfly,virus,N,machine learning,early warning system,sandfly fever AND machine learning AND early warning system,0
+sandfly fever,Sandfly,virus,N,machine learning,diagnostic,sandfly fever AND machine learning AND diagnostic,0
+sandfly fever,Sandfly,virus,N,k-means clustering,surveillance,sandfly fever AND k-means clustering AND surveillance,0
+sandfly fever,Sandfly,virus,N,k-means clustering,forecast,sandfly fever AND k-means clustering AND forecast,0
+sandfly fever,Sandfly,virus,N,k-means clustering,early warning system,sandfly fever AND k-means clustering AND early warning system,0
+sandfly fever,Sandfly,virus,N,k-means clustering,diagnostic,sandfly fever AND k-means clustering AND diagnostic,0
+sandfly fever,Sandfly,virus,N,logistic regression,surveillance,sandfly fever AND logistic regression AND surveillance,10
+sandfly fever,Sandfly,virus,N,logistic regression,forecast,sandfly fever AND logistic regression AND forecast,0
+sandfly fever,Sandfly,virus,N,logistic regression,early warning system,sandfly fever AND logistic regression AND early warning system,0
+sandfly fever,Sandfly,virus,N,logistic regression,diagnostic,sandfly fever AND logistic regression AND diagnostic,8
+sandfly fever,Sandfly,virus,N,support vector machine,surveillance,sandfly fever AND support vector machine AND surveillance,0
+sandfly fever,Sandfly,virus,N,support vector machine,forecast,sandfly fever AND support vector machine AND forecast,0
+sandfly fever,Sandfly,virus,N,support vector machine,early warning system,sandfly fever AND support vector machine AND early warning system,0
+sandfly fever,Sandfly,virus,N,support vector machine,diagnostic,sandfly fever AND support vector machine AND diagnostic,0
+sandfly fever,Sandfly,virus,N,text mining,surveillance,sandfly fever AND text mining AND surveillance,0
+sandfly fever,Sandfly,virus,N,text mining,forecast,sandfly fever AND text mining AND forecast,0
+sandfly fever,Sandfly,virus,N,text mining,early warning system,sandfly fever AND text mining AND early warning system,0
+sandfly fever,Sandfly,virus,N,text mining,diagnostic,sandfly fever AND text mining AND diagnostic,0
+sandfly fever,Sandfly,virus,N,artificial neural networks,surveillance,sandfly fever AND artificial neural networks AND surveillance,0
+sandfly fever,Sandfly,virus,N,artificial neural networks,forecast,sandfly fever AND artificial neural networks AND forecast,0
+sandfly fever,Sandfly,virus,N,artificial neural networks,early warning system,sandfly fever AND artificial neural networks AND early warning system,0
+sandfly fever,Sandfly,virus,N,artificial neural networks,diagnostic,sandfly fever AND artificial neural networks AND diagnostic,0
+sandfly fever,Sandfly,virus,N,expert system,surveillance,sandfly fever AND expert system AND surveillance,0
+sandfly fever,Sandfly,virus,N,expert system,forecast,sandfly fever AND expert system AND forecast,0
+sandfly fever,Sandfly,virus,N,expert system,early warning system,sandfly fever AND expert system AND early warning system,0
+sandfly fever,Sandfly,virus,N,expert system,diagnostic,sandfly fever AND expert system AND diagnostic,0
+sandfly fever,Sandfly,virus,N,random forest,surveillance,sandfly fever AND random forest AND surveillance,0
+sandfly fever,Sandfly,virus,N,random forest,forecast,sandfly fever AND random forest AND forecast,0
+sandfly fever,Sandfly,virus,N,random forest,early warning system,sandfly fever AND random forest AND early warning system,0
+sandfly fever,Sandfly,virus,N,random forest,diagnostic,sandfly fever AND random forest AND diagnostic,0
+sandfly fever,Sandfly,virus,N,decision trees,surveillance,sandfly fever AND decision trees AND surveillance,0
+sandfly fever,Sandfly,virus,N,decision trees,forecast,sandfly fever AND decision trees AND forecast,0
+sandfly fever,Sandfly,virus,N,decision trees,early warning system,sandfly fever AND decision trees AND early warning system,0
+sandfly fever,Sandfly,virus,N,decision trees,diagnostic,sandfly fever AND decision trees AND diagnostic,0
+sandfly fever,Sandfly,virus,N,gradient boosting,surveillance,sandfly fever AND gradient boosting AND surveillance,0
+sandfly fever,Sandfly,virus,N,gradient boosting,forecast,sandfly fever AND gradient boosting AND forecast,0
+sandfly fever,Sandfly,virus,N,gradient boosting,early warning system,sandfly fever AND gradient boosting AND early warning system,0
+sandfly fever,Sandfly,virus,N,gradient boosting,diagnostic,sandfly fever AND gradient boosting AND diagnostic,0
+sandfly fever,Sandfly,virus,N,natural language processing,surveillance,sandfly fever AND natural language processing AND surveillance,0
+sandfly fever,Sandfly,virus,N,natural language processing,forecast,sandfly fever AND natural language processing AND forecast,0
+sandfly fever,Sandfly,virus,N,natural language processing,early warning system,sandfly fever AND natural language processing AND early warning system,0
+sandfly fever,Sandfly,virus,N,natural language processing,diagnostic,sandfly fever AND natural language processing AND diagnostic,0
+sandfly fever,Sandfly,virus,N,sentiment analysis,surveillance,sandfly fever AND sentiment analysis AND surveillance,0
+sandfly fever,Sandfly,virus,N,sentiment analysis,forecast,sandfly fever AND sentiment analysis AND forecast,0
+sandfly fever,Sandfly,virus,N,sentiment analysis,early warning system,sandfly fever AND sentiment analysis AND early warning system,0
+sandfly fever,Sandfly,virus,N,sentiment analysis,diagnostic,sandfly fever AND sentiment analysis AND diagnostic,0
+sandfly fever,Sandfly,virus,N,fuzzy logic,surveillance,sandfly fever AND fuzzy logic AND surveillance,0
+sandfly fever,Sandfly,virus,N,fuzzy logic,forecast,sandfly fever AND fuzzy logic AND forecast,0
+sandfly fever,Sandfly,virus,N,fuzzy logic,early warning system,sandfly fever AND fuzzy logic AND early warning system,0
+sandfly fever,Sandfly,virus,N,fuzzy logic,diagnostic,sandfly fever AND fuzzy logic AND diagnostic,0
+lyme,ticks,bacteria,N,deep learning,surveillance,lyme AND deep learning AND surveillance,3
+lyme,ticks,bacteria,N,deep learning,forecast,lyme AND deep learning AND forecast,0
+lyme,ticks,bacteria,N,deep learning,early warning system,lyme AND deep learning AND early warning system,0
+lyme,ticks,bacteria,N,deep learning,diagnostic,lyme AND deep learning AND diagnostic,10
+lyme,ticks,bacteria,N,machine learning,surveillance,lyme AND machine learning AND surveillance,10
+lyme,ticks,bacteria,N,machine learning,forecast,lyme AND machine learning AND forecast,1
+lyme,ticks,bacteria,N,machine learning,early warning system,lyme AND machine learning AND early warning system,0
+lyme,ticks,bacteria,N,machine learning,diagnostic,lyme AND machine learning AND diagnostic,24
+lyme,ticks,bacteria,N,k-means clustering,surveillance,lyme AND k-means clustering AND surveillance,1
+lyme,ticks,bacteria,N,k-means clustering,forecast,lyme AND k-means clustering AND forecast,0
+lyme,ticks,bacteria,N,k-means clustering,early warning system,lyme AND k-means clustering AND early warning system,0
+lyme,ticks,bacteria,N,k-means clustering,diagnostic,lyme AND k-means clustering AND diagnostic,2
+lyme,ticks,bacteria,N,logistic regression,surveillance,lyme AND logistic regression AND surveillance,92
+lyme,ticks,bacteria,N,logistic regression,forecast,lyme AND logistic regression AND forecast,6
+lyme,ticks,bacteria,N,logistic regression,early warning system,lyme AND logistic regression AND early warning system,0
+lyme,ticks,bacteria,N,logistic regression,diagnostic,lyme AND logistic regression AND diagnostic,74
+lyme,ticks,bacteria,N,support vector machine,surveillance,lyme AND support vector machine AND surveillance,5
+lyme,ticks,bacteria,N,support vector machine,forecast,lyme AND support vector machine AND forecast,1
+lyme,ticks,bacteria,N,support vector machine,early warning system,lyme AND support vector machine AND early warning system,0
+lyme,ticks,bacteria,N,support vector machine,diagnostic,lyme AND support vector machine AND diagnostic,6
+lyme,ticks,bacteria,N,text mining,surveillance,lyme AND text mining AND surveillance,2
+lyme,ticks,bacteria,N,text mining,forecast,lyme AND text mining AND forecast,0
+lyme,ticks,bacteria,N,text mining,early warning system,lyme AND text mining AND early warning system,0
+lyme,ticks,bacteria,N,text mining,diagnostic,lyme AND text mining AND diagnostic,1
+lyme,ticks,bacteria,N,artificial neural networks,surveillance,lyme AND artificial neural networks AND surveillance,0
+lyme,ticks,bacteria,N,artificial neural networks,forecast,lyme AND artificial neural networks AND forecast,0
+lyme,ticks,bacteria,N,artificial neural networks,early warning system,lyme AND artificial neural networks AND early warning system,0
+lyme,ticks,bacteria,N,artificial neural networks,diagnostic,lyme AND artificial neural networks AND diagnostic,1
+lyme,ticks,bacteria,N,expert system,surveillance,lyme AND expert system AND surveillance,14
+lyme,ticks,bacteria,N,expert system,forecast,lyme AND expert system AND forecast,3
+lyme,ticks,bacteria,N,expert system,early warning system,lyme AND expert system AND early warning system,0
+lyme,ticks,bacteria,N,expert system,diagnostic,lyme AND expert system AND diagnostic,42
+lyme,ticks,bacteria,N,random forest,surveillance,lyme AND random forest AND surveillance,6
+lyme,ticks,bacteria,N,random forest,forecast,lyme AND random forest AND forecast,0
+lyme,ticks,bacteria,N,random forest,early warning system,lyme AND random forest AND early warning system,0
+lyme,ticks,bacteria,N,random forest,diagnostic,lyme AND random forest AND diagnostic,8
+lyme,ticks,bacteria,N,decision trees,surveillance,lyme AND decision trees AND surveillance,1
+lyme,ticks,bacteria,N,decision trees,forecast,lyme AND decision trees AND forecast,0
+lyme,ticks,bacteria,N,decision trees,early warning system,lyme AND decision trees AND early warning system,0
+lyme,ticks,bacteria,N,decision trees,diagnostic,lyme AND decision trees AND diagnostic,6
+lyme,ticks,bacteria,N,gradient boosting,surveillance,lyme AND gradient boosting AND surveillance,0
+lyme,ticks,bacteria,N,gradient boosting,forecast,lyme AND gradient boosting AND forecast,0
+lyme,ticks,bacteria,N,gradient boosting,early warning system,lyme AND gradient boosting AND early warning system,0
+lyme,ticks,bacteria,N,gradient boosting,diagnostic,lyme AND gradient boosting AND diagnostic,1
+lyme,ticks,bacteria,N,natural language processing,surveillance,lyme AND natural language processing AND surveillance,3
+lyme,ticks,bacteria,N,natural language processing,forecast,lyme AND natural language processing AND forecast,1
+lyme,ticks,bacteria,N,natural language processing,early warning system,lyme AND natural language processing AND early warning system,0
+lyme,ticks,bacteria,N,natural language processing,diagnostic,lyme AND natural language processing AND diagnostic,2
+lyme,ticks,bacteria,N,sentiment analysis,surveillance,lyme AND sentiment analysis AND surveillance,0
+lyme,ticks,bacteria,N,sentiment analysis,forecast,lyme AND sentiment analysis AND forecast,0
+lyme,ticks,bacteria,N,sentiment analysis,early warning system,lyme AND sentiment analysis AND early warning system,0
+lyme,ticks,bacteria,N,sentiment analysis,diagnostic,lyme AND sentiment analysis AND diagnostic,0
+lyme,ticks,bacteria,N,fuzzy logic,surveillance,lyme AND fuzzy logic AND surveillance,0
+lyme,ticks,bacteria,N,fuzzy logic,forecast,lyme AND fuzzy logic AND forecast,0
+lyme,ticks,bacteria,N,fuzzy logic,early warning system,lyme AND fuzzy logic AND early warning system,0
+lyme,ticks,bacteria,N,fuzzy logic,diagnostic,lyme AND fuzzy logic AND diagnostic,1
+borrelia,ticks,bacteria,N,deep learning,surveillance,borrelia AND deep learning AND surveillance,1
+borrelia,ticks,bacteria,N,deep learning,forecast,borrelia AND deep learning AND forecast,0
+borrelia,ticks,bacteria,N,deep learning,early warning system,borrelia AND deep learning AND early warning system,0
+borrelia,ticks,bacteria,N,deep learning,diagnostic,borrelia AND deep learning AND diagnostic,2
+borrelia,ticks,bacteria,N,machine learning,surveillance,borrelia AND machine learning AND surveillance,5
+borrelia,ticks,bacteria,N,machine learning,forecast,borrelia AND machine learning AND forecast,0
+borrelia,ticks,bacteria,N,machine learning,early warning system,borrelia AND machine learning AND early warning system,0
+borrelia,ticks,bacteria,N,machine learning,diagnostic,borrelia AND machine learning AND diagnostic,12
+borrelia,ticks,bacteria,N,k-means clustering,surveillance,borrelia AND k-means clustering AND surveillance,0
+borrelia,ticks,bacteria,N,k-means clustering,forecast,borrelia AND k-means clustering AND forecast,0
+borrelia,ticks,bacteria,N,k-means clustering,early warning system,borrelia AND k-means clustering AND early warning system,0
+borrelia,ticks,bacteria,N,k-means clustering,diagnostic,borrelia AND k-means clustering AND diagnostic,1
+borrelia,ticks,bacteria,N,logistic regression,surveillance,borrelia AND logistic regression AND surveillance,65
+borrelia,ticks,bacteria,N,logistic regression,forecast,borrelia AND logistic regression AND forecast,1
+borrelia,ticks,bacteria,N,logistic regression,early warning system,borrelia AND logistic regression AND early warning system,0
+borrelia,ticks,bacteria,N,logistic regression,diagnostic,borrelia AND logistic regression AND diagnostic,45
+borrelia,ticks,bacteria,N,support vector machine,surveillance,borrelia AND support vector machine AND surveillance,4
+borrelia,ticks,bacteria,N,support vector machine,forecast,borrelia AND support vector machine AND forecast,0
+borrelia,ticks,bacteria,N,support vector machine,early warning system,borrelia AND support vector machine AND early warning system,0
+borrelia,ticks,bacteria,N,support vector machine,diagnostic,borrelia AND support vector machine AND diagnostic,4
+borrelia,ticks,bacteria,N,text mining,surveillance,borrelia AND text mining AND surveillance,3
+borrelia,ticks,bacteria,N,text mining,forecast,borrelia AND text mining AND forecast,1
+borrelia,ticks,bacteria,N,text mining,early warning system,borrelia AND text mining AND early warning system,0
+borrelia,ticks,bacteria,N,text mining,diagnostic,borrelia AND text mining AND diagnostic,2
+borrelia,ticks,bacteria,N,artificial neural networks,surveillance,borrelia AND artificial neural networks AND surveillance,0
+borrelia,ticks,bacteria,N,artificial neural networks,forecast,borrelia AND artificial neural networks AND forecast,0
+borrelia,ticks,bacteria,N,artificial neural networks,early warning system,borrelia AND artificial neural networks AND early warning system,0
+borrelia,ticks,bacteria,N,artificial neural networks,diagnostic,borrelia AND artificial neural networks AND diagnostic,0
+borrelia,ticks,bacteria,N,expert system,surveillance,borrelia AND expert system AND surveillance,7
+borrelia,ticks,bacteria,N,expert system,forecast,borrelia AND expert system AND forecast,1
+borrelia,ticks,bacteria,N,expert system,early warning system,borrelia AND expert system AND early warning system,0
+borrelia,ticks,bacteria,N,expert system,diagnostic,borrelia AND expert system AND diagnostic,25
+borrelia,ticks,bacteria,N,random forest,surveillance,borrelia AND random forest AND surveillance,3
+borrelia,ticks,bacteria,N,random forest,forecast,borrelia AND random forest AND forecast,0
+borrelia,ticks,bacteria,N,random forest,early warning system,borrelia AND random forest AND early warning system,0
+borrelia,ticks,bacteria,N,random forest,diagnostic,borrelia AND random forest AND diagnostic,5
+borrelia,ticks,bacteria,N,decision trees,surveillance,borrelia AND decision trees AND surveillance,1
+borrelia,ticks,bacteria,N,decision trees,forecast,borrelia AND decision trees AND forecast,0
+borrelia,ticks,bacteria,N,decision trees,early warning system,borrelia AND decision trees AND early warning system,0
+borrelia,ticks,bacteria,N,decision trees,diagnostic,borrelia AND decision trees AND diagnostic,3
+borrelia,ticks,bacteria,N,gradient boosting,surveillance,borrelia AND gradient boosting AND surveillance,0
+borrelia,ticks,bacteria,N,gradient boosting,forecast,borrelia AND gradient boosting AND forecast,0
+borrelia,ticks,bacteria,N,gradient boosting,early warning system,borrelia AND gradient boosting AND early warning system,0
+borrelia,ticks,bacteria,N,gradient boosting,diagnostic,borrelia AND gradient boosting AND diagnostic,0
+borrelia,ticks,bacteria,N,natural language processing,surveillance,borrelia AND natural language processing AND surveillance,0
+borrelia,ticks,bacteria,N,natural language processing,forecast,borrelia AND natural language processing AND forecast,0
+borrelia,ticks,bacteria,N,natural language processing,early warning system,borrelia AND natural language processing AND early warning system,0
+borrelia,ticks,bacteria,N,natural language processing,diagnostic,borrelia AND natural language processing AND diagnostic,0
+borrelia,ticks,bacteria,N,sentiment analysis,surveillance,borrelia AND sentiment analysis AND surveillance,0
+borrelia,ticks,bacteria,N,sentiment analysis,forecast,borrelia AND sentiment analysis AND forecast,0
+borrelia,ticks,bacteria,N,sentiment analysis,early warning system,borrelia AND sentiment analysis AND early warning system,0
+borrelia,ticks,bacteria,N,sentiment analysis,diagnostic,borrelia AND sentiment analysis AND diagnostic,0
+borrelia,ticks,bacteria,N,fuzzy logic,surveillance,borrelia AND fuzzy logic AND surveillance,0
+borrelia,ticks,bacteria,N,fuzzy logic,forecast,borrelia AND fuzzy logic AND forecast,0
+borrelia,ticks,bacteria,N,fuzzy logic,early warning system,borrelia AND fuzzy logic AND early warning system,0
+borrelia,ticks,bacteria,N,fuzzy logic,diagnostic,borrelia AND fuzzy logic AND diagnostic,0
+rickettsia,ticks,bacteria,N,deep learning,surveillance,rickettsia AND deep learning AND surveillance,0
+rickettsia,ticks,bacteria,N,deep learning,forecast,rickettsia AND deep learning AND forecast,0
+rickettsia,ticks,bacteria,N,deep learning,early warning system,rickettsia AND deep learning AND early warning system,0
+rickettsia,ticks,bacteria,N,deep learning,diagnostic,rickettsia AND deep learning AND diagnostic,0
+rickettsia,ticks,bacteria,N,machine learning,surveillance,rickettsia AND machine learning AND surveillance,4
+rickettsia,ticks,bacteria,N,machine learning,forecast,rickettsia AND machine learning AND forecast,0
+rickettsia,ticks,bacteria,N,machine learning,early warning system,rickettsia AND machine learning AND early warning system,0
+rickettsia,ticks,bacteria,N,machine learning,diagnostic,rickettsia AND machine learning AND diagnostic,3
+rickettsia,ticks,bacteria,N,k-means clustering,surveillance,rickettsia AND k-means clustering AND surveillance,0
+rickettsia,ticks,bacteria,N,k-means clustering,forecast,rickettsia AND k-means clustering AND forecast,0
+rickettsia,ticks,bacteria,N,k-means clustering,early warning system,rickettsia AND k-means clustering AND early warning system,0
+rickettsia,ticks,bacteria,N,k-means clustering,diagnostic,rickettsia AND k-means clustering AND diagnostic,0
+rickettsia,ticks,bacteria,N,logistic regression,surveillance,rickettsia AND logistic regression AND surveillance,113
+rickettsia,ticks,bacteria,N,logistic regression,forecast,rickettsia AND logistic regression AND forecast,3
+rickettsia,ticks,bacteria,N,logistic regression,early warning system,rickettsia AND logistic regression AND early warning system,0
+rickettsia,ticks,bacteria,N,logistic regression,diagnostic,rickettsia AND logistic regression AND diagnostic,68
+rickettsia,ticks,bacteria,N,support vector machine,surveillance,rickettsia AND support vector machine AND surveillance,6
+rickettsia,ticks,bacteria,N,support vector machine,forecast,rickettsia AND support vector machine AND forecast,0
+rickettsia,ticks,bacteria,N,support vector machine,early warning system,rickettsia AND support vector machine AND early warning system,0
+rickettsia,ticks,bacteria,N,support vector machine,diagnostic,rickettsia AND support vector machine AND diagnostic,2
+rickettsia,ticks,bacteria,N,text mining,surveillance,rickettsia AND text mining AND surveillance,0
+rickettsia,ticks,bacteria,N,text mining,forecast,rickettsia AND text mining AND forecast,0
+rickettsia,ticks,bacteria,N,text mining,early warning system,rickettsia AND text mining AND early warning system,0
+rickettsia,ticks,bacteria,N,text mining,diagnostic,rickettsia AND text mining AND diagnostic,1
+rickettsia,ticks,bacteria,N,artificial neural networks,surveillance,rickettsia AND artificial neural networks AND surveillance,0
+rickettsia,ticks,bacteria,N,artificial neural networks,forecast,rickettsia AND artificial neural networks AND forecast,0
+rickettsia,ticks,bacteria,N,artificial neural networks,early warning system,rickettsia AND artificial neural networks AND early warning system,0
+rickettsia,ticks,bacteria,N,artificial neural networks,diagnostic,rickettsia AND artificial neural networks AND diagnostic,1
+rickettsia,ticks,bacteria,N,expert system,surveillance,rickettsia AND expert system AND surveillance,0
+rickettsia,ticks,bacteria,N,expert system,forecast,rickettsia AND expert system AND forecast,0
+rickettsia,ticks,bacteria,N,expert system,early warning system,rickettsia AND expert system AND early warning system,0
+rickettsia,ticks,bacteria,N,expert system,diagnostic,rickettsia AND expert system AND diagnostic,1
+rickettsia,ticks,bacteria,N,random forest,surveillance,rickettsia AND random forest AND surveillance,3
+rickettsia,ticks,bacteria,N,random forest,forecast,rickettsia AND random forest AND forecast,0
+rickettsia,ticks,bacteria,N,random forest,early warning system,rickettsia AND random forest AND early warning system,0
+rickettsia,ticks,bacteria,N,random forest,diagnostic,rickettsia AND random forest AND diagnostic,1
+rickettsia,ticks,bacteria,N,decision trees,surveillance,rickettsia AND decision trees AND surveillance,1
+rickettsia,ticks,bacteria,N,decision trees,forecast,rickettsia AND decision trees AND forecast,0
+rickettsia,ticks,bacteria,N,decision trees,early warning system,rickettsia AND decision trees AND early warning system,0
+rickettsia,ticks,bacteria,N,decision trees,diagnostic,rickettsia AND decision trees AND diagnostic,2
+rickettsia,ticks,bacteria,N,gradient boosting,surveillance,rickettsia AND gradient boosting AND surveillance,0
+rickettsia,ticks,bacteria,N,gradient boosting,forecast,rickettsia AND gradient boosting AND forecast,0
+rickettsia,ticks,bacteria,N,gradient boosting,early warning system,rickettsia AND gradient boosting AND early warning system,0
+rickettsia,ticks,bacteria,N,gradient boosting,diagnostic,rickettsia AND gradient boosting AND diagnostic,0
+rickettsia,ticks,bacteria,N,natural language processing,surveillance,rickettsia AND natural language processing AND surveillance,0
+rickettsia,ticks,bacteria,N,natural language processing,forecast,rickettsia AND natural language processing AND forecast,0
+rickettsia,ticks,bacteria,N,natural language processing,early warning system,rickettsia AND natural language processing AND early warning system,0
+rickettsia,ticks,bacteria,N,natural language processing,diagnostic,rickettsia AND natural language processing AND diagnostic,0
+rickettsia,ticks,bacteria,N,sentiment analysis,surveillance,rickettsia AND sentiment analysis AND surveillance,0
+rickettsia,ticks,bacteria,N,sentiment analysis,forecast,rickettsia AND sentiment analysis AND forecast,0
+rickettsia,ticks,bacteria,N,sentiment analysis,early warning system,rickettsia AND sentiment analysis AND early warning system,0
+rickettsia,ticks,bacteria,N,sentiment analysis,diagnostic,rickettsia AND sentiment analysis AND diagnostic,0
+rickettsia,ticks,bacteria,N,fuzzy logic,surveillance,rickettsia AND fuzzy logic AND surveillance,0
+rickettsia,ticks,bacteria,N,fuzzy logic,forecast,rickettsia AND fuzzy logic AND forecast,0
+rickettsia,ticks,bacteria,N,fuzzy logic,early warning system,rickettsia AND fuzzy logic AND early warning system,0
+rickettsia,ticks,bacteria,N,fuzzy logic,diagnostic,rickettsia AND fuzzy logic AND diagnostic,0
+tularemia,ticks,bacteria,N,deep learning,surveillance,tularemia AND deep learning AND surveillance,0
+tularemia,ticks,bacteria,N,deep learning,forecast,tularemia AND deep learning AND forecast,0
+tularemia,ticks,bacteria,N,deep learning,early warning system,tularemia AND deep learning AND early warning system,0
+tularemia,ticks,bacteria,N,deep learning,diagnostic,tularemia AND deep learning AND diagnostic,0
+tularemia,ticks,bacteria,N,machine learning,surveillance,tularemia AND machine learning AND surveillance,0
+tularemia,ticks,bacteria,N,machine learning,forecast,tularemia AND machine learning AND forecast,0
+tularemia,ticks,bacteria,N,machine learning,early warning system,tularemia AND machine learning AND early warning system,0
+tularemia,ticks,bacteria,N,machine learning,diagnostic,tularemia AND machine learning AND diagnostic,0
+tularemia,ticks,bacteria,N,k-means clustering,surveillance,tularemia AND k-means clustering AND surveillance,0
+tularemia,ticks,bacteria,N,k-means clustering,forecast,tularemia AND k-means clustering AND forecast,0
+tularemia,ticks,bacteria,N,k-means clustering,early warning system,tularemia AND k-means clustering AND early warning system,0
+tularemia,ticks,bacteria,N,k-means clustering,diagnostic,tularemia AND k-means clustering AND diagnostic,0
+tularemia,ticks,bacteria,N,logistic regression,surveillance,tularemia AND logistic regression AND surveillance,16
+tularemia,ticks,bacteria,N,logistic regression,forecast,tularemia AND logistic regression AND forecast,0
+tularemia,ticks,bacteria,N,logistic regression,early warning system,tularemia AND logistic regression AND early warning system,0
+tularemia,ticks,bacteria,N,logistic regression,diagnostic,tularemia AND logistic regression AND diagnostic,6
+tularemia,ticks,bacteria,N,support vector machine,surveillance,tularemia AND support vector machine AND surveillance,0
+tularemia,ticks,bacteria,N,support vector machine,forecast,tularemia AND support vector machine AND forecast,0
+tularemia,ticks,bacteria,N,support vector machine,early warning system,tularemia AND support vector machine AND early warning system,0
+tularemia,ticks,bacteria,N,support vector machine,diagnostic,tularemia AND support vector machine AND diagnostic,0
+tularemia,ticks,bacteria,N,text mining,surveillance,tularemia AND text mining AND surveillance,1
+tularemia,ticks,bacteria,N,text mining,forecast,tularemia AND text mining AND forecast,0
+tularemia,ticks,bacteria,N,text mining,early warning system,tularemia AND text mining AND early warning system,0
+tularemia,ticks,bacteria,N,text mining,diagnostic,tularemia AND text mining AND diagnostic,0
+tularemia,ticks,bacteria,N,artificial neural networks,surveillance,tularemia AND artificial neural networks AND surveillance,0
+tularemia,ticks,bacteria,N,artificial neural networks,forecast,tularemia AND artificial neural networks AND forecast,0
+tularemia,ticks,bacteria,N,artificial neural networks,early warning system,tularemia AND artificial neural networks AND early warning system,0
+tularemia,ticks,bacteria,N,artificial neural networks,diagnostic,tularemia AND artificial neural networks AND diagnostic,0
+tularemia,ticks,bacteria,N,expert system,surveillance,tularemia AND expert system AND surveillance,0
+tularemia,ticks,bacteria,N,expert system,forecast,tularemia AND expert system AND forecast,0
+tularemia,ticks,bacteria,N,expert system,early warning system,tularemia AND expert system AND early warning system,0
+tularemia,ticks,bacteria,N,expert system,diagnostic,tularemia AND expert system AND diagnostic,0
+tularemia,ticks,bacteria,N,random forest,surveillance,tularemia AND random forest AND surveillance,0
+tularemia,ticks,bacteria,N,random forest,forecast,tularemia AND random forest AND forecast,0
+tularemia,ticks,bacteria,N,random forest,early warning system,tularemia AND random forest AND early warning system,0
+tularemia,ticks,bacteria,N,random forest,diagnostic,tularemia AND random forest AND diagnostic,0
+tularemia,ticks,bacteria,N,decision trees,surveillance,tularemia AND decision trees AND surveillance,0
+tularemia,ticks,bacteria,N,decision trees,forecast,tularemia AND decision trees AND forecast,0
+tularemia,ticks,bacteria,N,decision trees,early warning system,tularemia AND decision trees AND early warning system,0
+tularemia,ticks,bacteria,N,decision trees,diagnostic,tularemia AND decision trees AND diagnostic,0
+tularemia,ticks,bacteria,N,gradient boosting,surveillance,tularemia AND gradient boosting AND surveillance,0
+tularemia,ticks,bacteria,N,gradient boosting,forecast,tularemia AND gradient boosting AND forecast,0
+tularemia,ticks,bacteria,N,gradient boosting,early warning system,tularemia AND gradient boosting AND early warning system,0
+tularemia,ticks,bacteria,N,gradient boosting,diagnostic,tularemia AND gradient boosting AND diagnostic,0
+tularemia,ticks,bacteria,N,natural language processing,surveillance,tularemia AND natural language processing AND surveillance,0
+tularemia,ticks,bacteria,N,natural language processing,forecast,tularemia AND natural language processing AND forecast,0
+tularemia,ticks,bacteria,N,natural language processing,early warning system,tularemia AND natural language processing AND early warning system,0
+tularemia,ticks,bacteria,N,natural language processing,diagnostic,tularemia AND natural language processing AND diagnostic,0
+tularemia,ticks,bacteria,N,sentiment analysis,surveillance,tularemia AND sentiment analysis AND surveillance,0
+tularemia,ticks,bacteria,N,sentiment analysis,forecast,tularemia AND sentiment analysis AND forecast,0
+tularemia,ticks,bacteria,N,sentiment analysis,early warning system,tularemia AND sentiment analysis AND early warning system,0
+tularemia,ticks,bacteria,N,sentiment analysis,diagnostic,tularemia AND sentiment analysis AND diagnostic,0
+tularemia,ticks,bacteria,N,fuzzy logic,surveillance,tularemia AND fuzzy logic AND surveillance,0
+tularemia,ticks,bacteria,N,fuzzy logic,forecast,tularemia AND fuzzy logic AND forecast,0
+tularemia,ticks,bacteria,N,fuzzy logic,early warning system,tularemia AND fuzzy logic AND early warning system,0
+tularemia,ticks,bacteria,N,fuzzy logic,diagnostic,tularemia AND fuzzy logic AND diagnostic,0
+chagas,triatome bugs,parasite,Y,deep learning,surveillance,chagas AND deep learning AND surveillance,0
+chagas,triatome bugs,parasite,Y,deep learning,forecast,chagas AND deep learning AND forecast,0
+chagas,triatome bugs,parasite,Y,deep learning,early warning system,chagas AND deep learning AND early warning system,0
+chagas,triatome bugs,parasite,Y,deep learning,diagnostic,chagas AND deep learning AND diagnostic,6
+chagas,triatome bugs,parasite,Y,machine learning,surveillance,chagas AND machine learning AND surveillance,13
+chagas,triatome bugs,parasite,Y,machine learning,forecast,chagas AND machine learning AND forecast,5
+chagas,triatome bugs,parasite,Y,machine learning,early warning system,chagas AND machine learning AND early warning system,0
+chagas,triatome bugs,parasite,Y,machine learning,diagnostic,chagas AND machine learning AND diagnostic,32
+chagas,triatome bugs,parasite,Y,k-means clustering,surveillance,chagas AND k-means clustering AND surveillance,0
+chagas,triatome bugs,parasite,Y,k-means clustering,forecast,chagas AND k-means clustering AND forecast,0
+chagas,triatome bugs,parasite,Y,k-means clustering,early warning system,chagas AND k-means clustering AND early warning system,0
+chagas,triatome bugs,parasite,Y,k-means clustering,diagnostic,chagas AND k-means clustering AND diagnostic,1
+chagas,triatome bugs,parasite,Y,logistic regression,surveillance,chagas AND logistic regression AND surveillance,250
+chagas,triatome bugs,parasite,Y,logistic regression,forecast,chagas AND logistic regression AND forecast,19
+chagas,triatome bugs,parasite,Y,logistic regression,early warning system,chagas AND logistic regression AND early warning system,0
+chagas,triatome bugs,parasite,Y,logistic regression,diagnostic,chagas AND logistic regression AND diagnostic,192
+chagas,triatome bugs,parasite,Y,support vector machine,surveillance,chagas AND support vector machine AND surveillance,3
+chagas,triatome bugs,parasite,Y,support vector machine,forecast,chagas AND support vector machine AND forecast,2
+chagas,triatome bugs,parasite,Y,support vector machine,early warning system,chagas AND support vector machine AND early warning system,0
+chagas,triatome bugs,parasite,Y,support vector machine,diagnostic,chagas AND support vector machine AND diagnostic,8
+chagas,triatome bugs,parasite,Y,text mining,surveillance,chagas AND text mining AND surveillance,21
+chagas,triatome bugs,parasite,Y,text mining,forecast,chagas AND text mining AND forecast,2
+chagas,triatome bugs,parasite,Y,text mining,early warning system,chagas AND text mining AND early warning system,0
+chagas,triatome bugs,parasite,Y,text mining,diagnostic,chagas AND text mining AND diagnostic,11
+chagas,triatome bugs,parasite,Y,artificial neural networks,surveillance,chagas AND artificial neural networks AND surveillance,2
+chagas,triatome bugs,parasite,Y,artificial neural networks,forecast,chagas AND artificial neural networks AND forecast,0
+chagas,triatome bugs,parasite,Y,artificial neural networks,early warning system,chagas AND artificial neural networks AND early warning system,0
+chagas,triatome bugs,parasite,Y,artificial neural networks,diagnostic,chagas AND artificial neural networks AND diagnostic,5
+chagas,triatome bugs,parasite,Y,expert system,surveillance,chagas AND expert system AND surveillance,10
+chagas,triatome bugs,parasite,Y,expert system,forecast,chagas AND expert system AND forecast,3
+chagas,triatome bugs,parasite,Y,expert system,early warning system,chagas AND expert system AND early warning system,0
+chagas,triatome bugs,parasite,Y,expert system,diagnostic,chagas AND expert system AND diagnostic,16
+chagas,triatome bugs,parasite,Y,random forest,surveillance,chagas AND random forest AND surveillance,8
+chagas,triatome bugs,parasite,Y,random forest,forecast,chagas AND random forest AND forecast,2
+chagas,triatome bugs,parasite,Y,random forest,early warning system,chagas AND random forest AND early warning system,0
+chagas,triatome bugs,parasite,Y,random forest,diagnostic,chagas AND random forest AND diagnostic,9
+chagas,triatome bugs,parasite,Y,decision trees,surveillance,chagas AND decision trees AND surveillance,4
+chagas,triatome bugs,parasite,Y,decision trees,forecast,chagas AND decision trees AND forecast,1
+chagas,triatome bugs,parasite,Y,decision trees,early warning system,chagas AND decision trees AND early warning system,0
+chagas,triatome bugs,parasite,Y,decision trees,diagnostic,chagas AND decision trees AND diagnostic,6
+chagas,triatome bugs,parasite,Y,gradient boosting,surveillance,chagas AND gradient boosting AND surveillance,4
+chagas,triatome bugs,parasite,Y,gradient boosting,forecast,chagas AND gradient boosting AND forecast,0
+chagas,triatome bugs,parasite,Y,gradient boosting,early warning system,chagas AND gradient boosting AND early warning system,0
+chagas,triatome bugs,parasite,Y,gradient boosting,diagnostic,chagas AND gradient boosting AND diagnostic,1
+chagas,triatome bugs,parasite,Y,natural language processing,surveillance,chagas AND natural language processing AND surveillance,0
+chagas,triatome bugs,parasite,Y,natural language processing,forecast,chagas AND natural language processing AND forecast,0
+chagas,triatome bugs,parasite,Y,natural language processing,early warning system,chagas AND natural language processing AND early warning system,0
+chagas,triatome bugs,parasite,Y,natural language processing,diagnostic,chagas AND natural language processing AND diagnostic,1
+chagas,triatome bugs,parasite,Y,sentiment analysis,surveillance,chagas AND sentiment analysis AND surveillance,0
+chagas,triatome bugs,parasite,Y,sentiment analysis,forecast,chagas AND sentiment analysis AND forecast,0
+chagas,triatome bugs,parasite,Y,sentiment analysis,early warning system,chagas AND sentiment analysis AND early warning system,0
+chagas,triatome bugs,parasite,Y,sentiment analysis,diagnostic,chagas AND sentiment analysis AND diagnostic,0
+chagas,triatome bugs,parasite,Y,fuzzy logic,surveillance,chagas AND fuzzy logic AND surveillance,0
+chagas,triatome bugs,parasite,Y,fuzzy logic,forecast,chagas AND fuzzy logic AND forecast,0
+chagas,triatome bugs,parasite,Y,fuzzy logic,early warning system,chagas AND fuzzy logic AND early warning system,0
+chagas,triatome bugs,parasite,Y,fuzzy logic,diagnostic,chagas AND fuzzy logic AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,deep learning,surveillance,sleeping sickness AND deep learning AND surveillance,1
+sleeping sickness,tsetse flies,parasite,Y,deep learning,forecast,sleeping sickness AND deep learning AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,deep learning,early warning system,sleeping sickness AND deep learning AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,deep learning,diagnostic,sleeping sickness AND deep learning AND diagnostic,1
+sleeping sickness,tsetse flies,parasite,Y,machine learning,surveillance,sleeping sickness AND machine learning AND surveillance,3
+sleeping sickness,tsetse flies,parasite,Y,machine learning,forecast,sleeping sickness AND machine learning AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,machine learning,early warning system,sleeping sickness AND machine learning AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,machine learning,diagnostic,sleeping sickness AND machine learning AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,k-means clustering,surveillance,sleeping sickness AND k-means clustering AND surveillance,0
+sleeping sickness,tsetse flies,parasite,Y,k-means clustering,forecast,sleeping sickness AND k-means clustering AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,k-means clustering,early warning system,sleeping sickness AND k-means clustering AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,k-means clustering,diagnostic,sleeping sickness AND k-means clustering AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,logistic regression,surveillance,sleeping sickness AND logistic regression AND surveillance,35
+sleeping sickness,tsetse flies,parasite,Y,logistic regression,forecast,sleeping sickness AND logistic regression AND forecast,3
+sleeping sickness,tsetse flies,parasite,Y,logistic regression,early warning system,sleeping sickness AND logistic regression AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,logistic regression,diagnostic,sleeping sickness AND logistic regression AND diagnostic,15
+sleeping sickness,tsetse flies,parasite,Y,support vector machine,surveillance,sleeping sickness AND support vector machine AND surveillance,1
+sleeping sickness,tsetse flies,parasite,Y,support vector machine,forecast,sleeping sickness AND support vector machine AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,support vector machine,early warning system,sleeping sickness AND support vector machine AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,support vector machine,diagnostic,sleeping sickness AND support vector machine AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,text mining,surveillance,sleeping sickness AND text mining AND surveillance,2
+sleeping sickness,tsetse flies,parasite,Y,text mining,forecast,sleeping sickness AND text mining AND forecast,1
+sleeping sickness,tsetse flies,parasite,Y,text mining,early warning system,sleeping sickness AND text mining AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,text mining,diagnostic,sleeping sickness AND text mining AND diagnostic,2
+sleeping sickness,tsetse flies,parasite,Y,artificial neural networks,surveillance,sleeping sickness AND artificial neural networks AND surveillance,1
+sleeping sickness,tsetse flies,parasite,Y,artificial neural networks,forecast,sleeping sickness AND artificial neural networks AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,artificial neural networks,early warning system,sleeping sickness AND artificial neural networks AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,artificial neural networks,diagnostic,sleeping sickness AND artificial neural networks AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,expert system,surveillance,sleeping sickness AND expert system AND surveillance,2
+sleeping sickness,tsetse flies,parasite,Y,expert system,forecast,sleeping sickness AND expert system AND forecast,1
+sleeping sickness,tsetse flies,parasite,Y,expert system,early warning system,sleeping sickness AND expert system AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,expert system,diagnostic,sleeping sickness AND expert system AND diagnostic,3
+sleeping sickness,tsetse flies,parasite,Y,random forest,surveillance,sleeping sickness AND random forest AND surveillance,2
+sleeping sickness,tsetse flies,parasite,Y,random forest,forecast,sleeping sickness AND random forest AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,random forest,early warning system,sleeping sickness AND random forest AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,random forest,diagnostic,sleeping sickness AND random forest AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,decision trees,surveillance,sleeping sickness AND decision trees AND surveillance,3
+sleeping sickness,tsetse flies,parasite,Y,decision trees,forecast,sleeping sickness AND decision trees AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,decision trees,early warning system,sleeping sickness AND decision trees AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,decision trees,diagnostic,sleeping sickness AND decision trees AND diagnostic,5
+sleeping sickness,tsetse flies,parasite,Y,gradient boosting,surveillance,sleeping sickness AND gradient boosting AND surveillance,0
+sleeping sickness,tsetse flies,parasite,Y,gradient boosting,forecast,sleeping sickness AND gradient boosting AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,gradient boosting,early warning system,sleeping sickness AND gradient boosting AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,gradient boosting,diagnostic,sleeping sickness AND gradient boosting AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,natural language processing,surveillance,sleeping sickness AND natural language processing AND surveillance,0
+sleeping sickness,tsetse flies,parasite,Y,natural language processing,forecast,sleeping sickness AND natural language processing AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,natural language processing,early warning system,sleeping sickness AND natural language processing AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,natural language processing,diagnostic,sleeping sickness AND natural language processing AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,sentiment analysis,surveillance,sleeping sickness AND sentiment analysis AND surveillance,0
+sleeping sickness,tsetse flies,parasite,Y,sentiment analysis,forecast,sleeping sickness AND sentiment analysis AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,sentiment analysis,early warning system,sleeping sickness AND sentiment analysis AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,sentiment analysis,diagnostic,sleeping sickness AND sentiment analysis AND diagnostic,0
+sleeping sickness,tsetse flies,parasite,Y,fuzzy logic,surveillance,sleeping sickness AND fuzzy logic AND surveillance,0
+sleeping sickness,tsetse flies,parasite,Y,fuzzy logic,forecast,sleeping sickness AND fuzzy logic AND forecast,0
+sleeping sickness,tsetse flies,parasite,Y,fuzzy logic,early warning system,sleeping sickness AND fuzzy logic AND early warning system,0
+sleeping sickness,tsetse flies,parasite,Y,fuzzy logic,diagnostic,sleeping sickness AND fuzzy logic AND diagnostic,0
